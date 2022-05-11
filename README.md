@@ -6,4 +6,4 @@ You can see the website at www.danhirst.me.
 
 The original design was a template on Styleshout named Ceevee. You can download the code [here](https://www.styleshout.com/free-templates/ceevee/).
 
-The website is hosted using Netlify.
+The website is hosted using Github pages.
