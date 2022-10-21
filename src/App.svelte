@@ -1,16 +1,19 @@
 <script>
   import Gradients from "./lib/Gradients.svelte";
+  import Portfolio from "./lib/Portfolio.svelte";
 </script>
 
-<div class="absolute m-auto w-full h-full content-center align-middle flex items-center justify-center">
-    <div>
+<div class="absolute m-auto w-full h-full content-center align-middle flex flex-col items-center justify-center">
+    <div h->
         <h1 class="align-middle">Hi, I'm Dan Hirst</h1>
         <h2>Developer, data scientist, map nerd</h2>
         <button class="btn-primary m-5">Click</button>
     </div>
+    <Portfolio/>
 
 </div>
 <Gradients/>
+
 
 <style>
     div {
