@@ -30,6 +30,13 @@
             link: "https://dchirst-what-country-am-i-main-nkgm6x.streamlitapp.com/",
             image: "country-a-like.png",
             alt: "Screenshot of Country-a-like website"
+        },
+        {
+            title: "Space Company Name Generator",
+            desc: "Make your own space company in 1 easy step",
+            link: "https://danhirst98.github.io/space_company_generator/",
+            image: "spacename.png",
+            alt: "Space Name Generator screenshot"
         }
 
     ]
