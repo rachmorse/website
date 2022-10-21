@@ -1,12 +1,18 @@
 <script>
   import Gradients from "./lib/Gradients.svelte";
   import Portfolio from "./lib/Portfolio.svelte";
+  import { Github, Linkedin, Twitter} from "lucide-svelte";
 </script>
 
 <div class="absolute m-auto w-full h-full content-center align-middle flex flex-col items-center justify-center">
-    <div h->
+    <div>
         <h1 class="align-middle">Hi, I'm Dan Hirst</h1>
         <h2>Developer, data scientist, map nerd</h2>
+        <div class="grid grid-cols-3 grid-rows-1 grid-flow-row gap-4 text-center m-5">
+            <a href="https://github.com/dchirst" class="btn btn-circle m-auto"><Github/></a>
+            <a href="https://www.linkedin.com/in/dan-hirst/" class="btn btn-circle m-auto"><Linkedin/></a>
+            <a href="https://twitter.com/dchirst0" class="btn btn-circle m-auto"><Twitter/></a>
+        </div>
         <button class="btn-primary m-5">Click</button>
     </div>
     <Portfolio/>
