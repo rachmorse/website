@@ -1,6 +1,5 @@
 <script>
   import Gradients from "./lib/Gradients.svelte";
-  import Portfolio from "./lib/Portfolio.svelte";
 </script>
 
 <div class="absolute m-auto w-full h-full content-center align-middle flex items-center justify-center">
@@ -11,7 +10,6 @@
     </div>
 
 </div>
-<Portfolio/>
 <Gradients/>
 
 <style>
