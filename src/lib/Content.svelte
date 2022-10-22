@@ -16,10 +16,10 @@
       currentView = newView;
   }
 </script>
-<div>
-    <div class="my-10">
-       <h1 class="my-3 text-8xl">Hi, I'm Dan Hirst</h1>
-        <h2 class="text-3xl">Developer, data scientist, map nerd</h2>
+<div class="z-50">
+    <div class="md:my-10 mt-20 mb-10 ">
+       <h1 class="my-3 text-5xl md:text-8xl">Hi, I'm Dan Hirst</h1>
+        <h2 class=" text-2xl md:text-3xl">Developer, data scientist, map nerd</h2>
     </div>
 
     <div class="grid grid-cols-3 grid-rows-1 grid-flow-row gap-4 text-center m-5">
