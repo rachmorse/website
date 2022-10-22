@@ -1,14 +1,16 @@
 <script>
     import Card from "./Card.svelte";
 
-    export let current;
+    export let current = "code";
 
     const code = [{
             title: "osdatahub Python",
             desc: "Open source Python package for the OS Data Hub",
             link: "https://github.com/OrdnanceSurvey/osdatahub",
             image: "python.png",
-            alt: "Python logo"
+            alt: "Python logo",
+            fit: "object-contain"
+
         },
         {
             title: "osdatahub JavaScript",
@@ -29,14 +31,18 @@
             desc: "Website that determines which country looks like a given image",
             link: "https://dchirst-what-country-am-i-main-nkgm6x.streamlitapp.com/",
             image: "country-a-like.png",
-            alt: "Screenshot of Country-a-like website"
+            alt: "Screenshot of Country-a-like website",
+            fit: "object-contain"
+
         },
         {
             title: "Space Company Name Generator",
             desc: "Make your own space company in 1 easy step",
             link: "https://danhirst98.github.io/space_company_generator/",
             image: "spacename.png",
-            alt: "Space Name Generator screenshot"
+            alt: "Space Name Generator screenshot",
+            fit: "object-contain"
+
         }
 
     ]
@@ -58,7 +64,7 @@
         },
         {
             title: "OS Data Hub OAuth API",
-            desc: "How to use the OAuth API to securely use the OS Data Hub in websites",
+            desc: "How to securely use the OS Data Hub with OAuth",
             link: "https://github.com/dchirst/osdatahub-oauth-blogpost",
             image: "map.png",
             alt: "Map of Newcastle"
@@ -92,14 +98,17 @@
             desc: "Non-profit escape room company",
             link: "https://www.chapelthrillescapes.com/",
             image: "chapelthrill.png",
-            alt: "Chapel Thrill Escapes logo"
+            alt: "Chapel Thrill Escapes logo",
+            fit: "object-contain"
+
         },
         {
             title: "Prospero Space Fellowship",
             desc: "Internships, mentorships, and retreats for students",
             link: "https://prosperofellowship.org/",
             image: "prospero.png",
-            alt: "Prospero Space Fellowship logo"
+            alt: "Prospero Space Fellowship logo",
+            fit: "object-contain"
         }
     ]
 
@@ -112,7 +121,7 @@
     $: currentPortfolio = portfolios[current]
 </script>
 
-<div class="carousel mx-5 md:w-3/4 m-auto md:h-64 h-96 ">
+<div class="carousel mx-5 md:w-3/4 md:m-auto md:h-64 h-96 ">
     {#each currentPortfolio as content }
         <Card {...content}/>
     {/each}

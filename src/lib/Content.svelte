@@ -17,7 +17,7 @@
   }
 </script>
 <div class="z-50">
-    <div class="my-10">
+    <div class="md:my-10 mt-20 mb-10 ">
        <h1 class="my-3 text-5xl md:text-8xl">Hi, I'm Dan Hirst</h1>
         <h2 class=" text-2xl md:text-3xl">Developer, data scientist, map nerd</h2>
     </div>
