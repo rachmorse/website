@@ -96,7 +96,7 @@
         },
         {
             title: "Prospero Space Fellowship",
-            desc: "Internships, mentorships, and retreats for students passionate about space",
+            desc: "Internships, mentorships, and retreats for students",
             link: "https://prosperofellowship.org/",
             image: "prospero.png",
             alt: "Prospero Space Fellowship logo"
@@ -112,7 +112,7 @@
     $: currentPortfolio = portfolios[current]
 </script>
 
-<div class="carousel w-3/4 m-auto h-64">
+<div class="carousel mx-5 md:w-3/4 m-auto md:h-64 h-96 ">
     {#each currentPortfolio as content }
         <Card {...content}/>
     {/each}

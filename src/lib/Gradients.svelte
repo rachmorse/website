@@ -14,9 +14,8 @@
     }
 </script>
 
-<div class="css-selector w-screen h-screen bg-black">
+<div class="css-selector w-screen h-screen fixed z-0 top-0 bg-black"></div>
 
-</div>
 
 
 

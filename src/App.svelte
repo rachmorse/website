@@ -12,9 +12,8 @@
 
 
 </script>
-
-<div class="absolute m-auto w-full h-full content-center align-middle flex flex-col items-center justify-center z-50">
+<svelte:component this={viewportComponent}></svelte:component>
+<div class="md:absolute m-auto w-full h-full top-10 content-center align-middle flex flex-col items-center justify-center z-50">
     <Content viewLength="{views.length}" bind:currentView="{currentView}"/>
     <Portfolio/>
 </div>
-<svelte:component this={viewportComponent}></svelte:component>
