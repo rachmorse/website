@@ -22,7 +22,7 @@
         {
             title: "Pret Crawl",
             desc: "All hail the Pret Crawl",
-            link: "www.pretcrawl.com",
+            link: "https://www.pretcrawl.com",
             image: "coffee.png",
             alt: "Coffee"
         },
