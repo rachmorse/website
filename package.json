@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "check": "svelte-check --tsconfig ./tsconfig.json"
+    "check": "svelte-check --tsconfig ./tsconfig.json",
+    "deploy": "npx gh-pages -d dist"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.2",
@@ -15,6 +16,7 @@
     "autoprefixer": "^10.4.7",
     "daisyui": "^2.33.0",
     "dotenv": "^16.0.3",
+    "gh-pages": "^4.0.0",
     "leaflet": "^1.8.0",
     "lucide-svelte": "^0.92.0",
     "postcss": "^8.4.14",
