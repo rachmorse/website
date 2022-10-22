@@ -42,7 +42,13 @@
             image: "spacename.png",
             alt: "Space Name Generator screenshot",
             fit: "object-contain"
-
+        },
+        {
+            title: "SAR Activity Monitor",
+            desc: "Using SAR satellite imagery to monitor the activity of smelters",
+            link: "https://danielhirst1998.users.earthengine.app/view/guixi-poc",
+            image: "copper.avif",
+            alt: "Copper"
         }
 
     ]
