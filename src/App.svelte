@@ -4,7 +4,7 @@
   import Map from "./lib/Map.svelte";
   import Content from "./lib/Content.svelte";
   import SEO from "./lib/SEO.svelte";
-  const views = [Gradients, Map]
+  const views = [Map, Gradients]
 
   let currentView = 0
   let viewportComponent;

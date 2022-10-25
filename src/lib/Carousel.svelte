@@ -49,17 +49,31 @@
             link: "https://danielhirst1998.users.earthengine.app/view/guixi-poc",
             image: "copper.avif",
             alt: "Copper"
+        },
+        {
+            title: "Alternative Zone Designer",
+            desc: "Designs local zones using the importance of each road",
+            link: "https://lemon-bay-0090d5003.1.azurestaticapps.net/",
+            image: "zones.png",
+            alt: "Street-based zones"
+        },
+        {
+            title: "Green Energy",
+            desc: "Shows suitability of green energy infrastructure at a location",
+            link: "https://lemon-bush-00c674003.1.azurestaticapps.net/",
+            image: "wind.avif",
+            alt: "Wind Farm"
         }
 
     ]
 
     const blogs = [
         {
-            title: "Peat Health Index",
-            desc: "ArcGIS StoryMap about EO presented at COP26",
-            link: "https://storymaps.arcgis.com/stories/68ac541504fc4714b371b1a33e540c95",
-            image: "peat.png",
-            alt: "Peatlands"
+            title: "Monitoring Sewage from Space",
+            desc: "ArcGIS StoryMap about using EO to detect sewage overspill, presented at COP27",
+            link: "https://storymaps.arcgis.com/stories/2386c7178666421a8ee69a94c6bfb1a6",
+            image: "sewer.avif",
+            alt: "Sewer"
         },
         {
             title: "Get Pret Go",
@@ -74,6 +88,13 @@
             link: "https://github.com/dchirst/osdatahub-oauth-blogpost",
             image: "map.png",
             alt: "Map of Newcastle"
+        },
+        {
+            title: "Peat Health Index",
+            desc: "ArcGIS StoryMap about using EO to monitor peatlands, presented at COP26",
+            link: "https://storymaps.arcgis.com/stories/68ac541504fc4714b371b1a33e540c95",
+            image: "peat.png",
+            alt: "Peatlands"
         },
         {
             title: "London's Blue Plaques",
