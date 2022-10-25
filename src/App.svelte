@@ -3,7 +3,8 @@
   import Portfolio from "./lib/Portfolio.svelte";
   import Map from "./lib/Map.svelte";
   import Content from "./lib/Content.svelte";
-  const views = [Gradients, Map]
+  import SEO from "./lib/SEO.svelte";
+  const views = [Map, Gradients]
 
   let currentView = 0
   let viewportComponent;
@@ -17,3 +18,4 @@
     <Content viewLength="{views.length}" bind:currentView="{currentView}"/>
     <Portfolio/>
 </div>
+<SEO/>
