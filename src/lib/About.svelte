@@ -4,8 +4,9 @@
       import "./js/link-xor";
 
 </script>
-<div class=" mb-10 mt-24 max-w-3xl mx-auto">
+<div class=" mb-10 mt-24 mx-auto">
 <div class="">
+    <img class="rounded-full mx-auto w-52" src="headshot.jpg" alt="Dan Hirst">
     <h1 class="">Dan Hirst</h1>
     <h2>Geospatial Engineer</h2>
     <div class="grid grid-cols-2 max-w-xs mx-auto grid-rows-1 grid-flow-row gap-4 text-center m-5">
