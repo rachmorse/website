@@ -1,5 +1,7 @@
 <script>
   import PortfolioSection from "./PortfolioSection.svelte";
+  import {clickOutside} from './js/clickOutside.js';
+
 
   const code = [{
             title: "osdatahub Python",
@@ -119,10 +121,32 @@
 
         }
     ]
+      
+    let tags = [...code, ...blogs, ...other] 
+          .map(x => x.tags)
+          .flat();
+      let unique_tags = [...new Set(tags)];
+
+      let active_tag = "";
+  
+      function set_active_tag(event) {
+        let tag_id = event.target.id;
+        if (active_tag == tag_id) {
+          active_tag = "";
+        } else {
+          active_tag = tag_id;
+        }
+      }
 
 </script>
 
+<div use:clickOutside on:click_outside={() => { active_tag = ""}} class="mb-5">
+  {#each unique_tags as tag}
+  <button on:click={set_active_tag} id="{tag}" class="inline-block m-1">{tag}</button>
+  {/each}
+</div>
 
-<PortfolioSection title="Code" content="{code}"></PortfolioSection>
-<PortfolioSection title="Blogs" content="{blogs}"></PortfolioSection>
-<PortfolioSection title="Other" content="{other}"></PortfolioSection>
+
+<PortfolioSection title="Code" content="{code}" active_tag="{active_tag}"></PortfolioSection>
+<PortfolioSection title="Blogs" content="{blogs}" active_tag="{active_tag}"></PortfolioSection>
+<PortfolioSection title="Other" content="{other}" active_tag="{active_tag}"></PortfolioSection>

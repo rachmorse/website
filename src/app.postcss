@@ -1,9 +1,16 @@
 /* Write your global styles here, in PostCSS syntax */
 
+@font-face {
+  font-family: 'Noto Serif';
+  src: url(NotoSerif-VariableFont_wdth,wght.FontimizeSubset.woff2);
+}
+
 @tailwind base;
 
+
 :root {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Noto Serif', serif;
+  /* font-family: Helvetica, Arial, sans-serif; */
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
@@ -60,7 +67,7 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #e07ca9;
 }
 button:focus,
 button:focus-visible {
