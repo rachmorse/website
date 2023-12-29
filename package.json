@@ -29,6 +29,7 @@
     "vite": "^3.1.0"
   },
   "dependencies": {
+    "svelte-lazy": "^1.2.5",
     "svelte-seo": "^1.4.1"
   }
 }

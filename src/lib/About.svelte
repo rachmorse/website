@@ -2,11 +2,15 @@
 <script>
       import { Github, Linkedin} from "lucide-svelte";
       import "./js/link-xor";
+      import Lazy from 'svelte-lazy';
 
 </script>
 <div class=" mb-10 mt-24 mx-auto">
 <div class="">
-    <img class="rounded-full mx-auto w-52" src="headshot.jpg" alt="Dan Hirst">
+    <Lazy height={208}>
+        <img class="rounded-full mx-auto h-52" src="headshot.jpg" alt="Dan Hirst">
+      </Lazy>
+    
     <h1 class="">Dan Hirst</h1>
     <h2>Geospatial Engineer</h2>
     <div class="grid grid-cols-2 max-w-xs mx-auto grid-rows-1 grid-flow-row gap-4 text-center m-5">
