@@ -13,7 +13,7 @@
     type: 'website',
     images: [
       {
-        url: 'https://www.danhirst.me/big_map.png',
+        url: 'https://www.danhirst.me/headshot.jpg',
         width: 512,
         height: 512,
         alt: 'World map emoji'
