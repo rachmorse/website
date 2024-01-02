@@ -142,7 +142,7 @@
 
 <div use:clickOutside on:click_outside={() => { active_tag = ""}} class="mb-5">
   {#each unique_tags as tag}
-  <button on:click={set_active_tag} id="{tag}" class="inline-block m-1">{tag}</button>
+  <button on:click={set_active_tag} id="{tag}" class="inline-block shadow-lg mx-2 my-1 active:dark:border-primary-500 active:border-primary-400 forced-colors:block hover:forced-colors:block p-2 dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400  text-primary-500 hover:bg-primary-500  hover:text-white mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500">{tag}</button>
   {/each}
 </div>
 
