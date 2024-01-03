@@ -7,7 +7,7 @@
 
 </script>
 
-<div class="max-w-3xl">
+<div class="max-w-5xl">
   <About/>
   <Portfolio/>
 </div>

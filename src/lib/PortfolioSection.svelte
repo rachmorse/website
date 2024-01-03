@@ -25,7 +25,7 @@
               <div class=" mt-3 sm:hidden rounded-md bg-primary-200 p-3 w-full w-md mx-auto max-w-md" transition:slide={{...options, x: -150}}>
                 <article class="prose">
                     <h1>{content[active_grid].title}</h1>
-                    <p>{content[active_grid].desc}</p>
+                    <p>{content[active_grid].long_desc}</p>
                 </article>
             </div>
             {/if}
@@ -35,7 +35,7 @@
                   <div class=" mt-3 hidden sm:inline row-start-{Math.floor(index / 2) +2} rounded-md bg-primary-200 p-3 w-full sm:col-span-2" transition:slide={{...options, x: -150}}>
                       <article class="prose">
                           <h1>{content[active_grid].title}</h1>
-                          <p>{content[active_grid].desc}</p>
+                          <p>{content[active_grid].long_desc}</p>
                       </article>
                   </div>
                   {/if}

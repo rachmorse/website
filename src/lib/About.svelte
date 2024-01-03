@@ -1,6 +1,6 @@
 
 <script>
-      import { Github, Linkedin} from "lucide-svelte";
+      import { Github, Linkedin, GraduationCap} from "lucide-svelte";
       import "./js/link-xor";
       import Lazy from 'svelte-lazy';
 
@@ -11,12 +11,13 @@
         <img class="rounded-full mx-auto h-52" src="headshot.jpg" alt="Dan Hirst">
       </Lazy>
     
-    <h1 class="">Dan Hirst</h1>
-    <h2>Geospatial Engineer</h2>
-    <div class="grid grid-cols-2 max-w-xs mx-auto grid-rows-1 grid-flow-row gap-4 text-center m-5">
+    <h1 class="">Rachel Morse</h1>
+    <h2>Doctoral Researcher</h2>
+    <div class="grid grid-cols-3 max-w-xs mx-auto grid-rows-1 grid-flow-row gap-4 text-center m-5">
 
-      <a href="https://github.com/dchirst" class="shadow-lg forced-colors:block hover:forced-colors:block p-2 dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400   text-primary-500 hover:bg-primary-500 hover:text-white mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"><Github/></a>
-      <a href="https://www.linkedin.com/in/dan-hirst/" class=" shadow-lg dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400 forced-colors:block text-primary-500  p-2  hover:bg-primary-500 hover:text-white mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"><Linkedin/></a>
+      <a href="https://github.com/rachmorse" class="shadow-lg forced-colors:block hover:forced-colors:block p-2 dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400   text-primary-500 hover:bg-primary-500 hover:text-white mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"><Github/></a>
+      <a href="https://www.linkedin.com/in/rachel-morse-a803a718b/" class=" shadow-lg dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400 forced-colors:block text-primary-500  p-2  hover:bg-primary-500 hover:text-white mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"><Linkedin/></a>
+      <a href="https://www.linkedin.com/in/rachel-morse-a803a718b/" class=" shadow-lg dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400 forced-colors:block text-primary-500  p-2  hover:bg-primary-500 hover:text-white mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"><GraduationCap/></a>
     </div>
 </div>
 <h2 class="text-3xl text-center">About</h2>

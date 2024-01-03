@@ -3,126 +3,38 @@
   import {clickOutside} from './js/clickOutside.js';
 
 
-  const code = [{
-            title: "osdatahub Python",
-            desc: "Open source Python package for the OS Data Hub API.",
-            link: "https://github.com/OrdnanceSurvey/osdatahub",
-            tags: ["python", "geospatial", "package", "work"]
+    let projects = [
+        {
+            title: "How an App Can Support Child Tuberculosis Treatment",
+            tags: ["mobile technology", "tuberculosis", "global health"],
+            long_desc: "Tuberculosis treatment for children is often challenging, with unpleasant drugs that cause serious side effects. In this article, we propose using a mobile app to improve children’s experience of and adherence to tuberculosis treatment, based on our research in South Africa."
         },
         {
-            title: "osdatahub JavaScript",
-            desc: "Open source Node package for the OS Data Hub API.",
-            link: "https://github.com/OrdnanceSurvey/osdatahub-js",
-            tags: ["javascript", "geospatial", "package", "work"]
+            title: "How Self-reflection Relates to Indicators of Alzheimer's",
+            tags: ["neuroscience", "alzheimer’s disease", "neuroimaging"],
+            long_desc: "We found that self-reflection was linked to better memory performance and higher brain activity, but not to lower levels of amyloid, a protein that accumulates in the brain and associated with Alzheimer’s."
         },
         {
-            title: "Pret Crawl",
-            desc: "Website that plans a pub crawl between Prets in London. Made to learn Svelte.",
-            link: "https://www.pretcrawl.com",
-            tags: ["svelte", "geospatial", "website", "personal"]
+            title: "Using ablative therapy to prevent cervical cancer",
+            tags: ["Cervical cancer", "women’s sexual health", "global health", "qualitative"],
+            long_desc: "Preventing cervical cancer in remote, low-resource settings can face challenges related to getting equipment to appropriate places. An HPV-based screen-and-treat approach with ablative therapy aims to address many of these challenges. We aimed to understand whether the recipients of these treatment approaches – women – find the treatment acceptable, and found that while women experienced minor side effects with the treatment, they expressed satisfaction and relief that they were able to receive ablative therapy treatment."
         },
         {
-            title: "Country-A-Like",
-            desc: "Fun website that determines which country looks like a given image ",
-            link: "https://dchirst-what-country-am-i-main-nkgm6x.streamlitapp.com/",
-            tags: ["python", "geospatial", "website", "personal"]
+            title: "Improving Breast Cancer Treatment",
+            tags: ["breast cancer", "global health", "qualitative"],
         },
         {
-            title: "Space Company Name Generator",
-            desc: "Make your own space company in 1 easy step. First website I ever made.",
-            link: "https://danhirst98.github.io/space_company_generator/",
-            tags: ["javascript", "space", "website", "personal"]
+            title: "Decreasing rates of loss to follow up in cervical cancer prevention and treatment",
+            tags: ["cervical cancer", "women’s sexual health", "global health", "qualitative"]
         },
         {
-            title: "SAR Activity Monitor",
-            desc: "Using SAR satellite imagery to monitor the activity of smelters.",
-            link: "https://danielhirst1998.users.earthengine.app/view/guixi-poc",
-            tags: ["javascript", "geospatial", "eo", "gee", "work"]
-        },
-        {
-            title: "Alternative Zone Designer",
-            desc: "Designs local zones using the importance of each road. Experiment for alternative census zones.",
-            link: "https://lemon-bay-0090d5003.1.azurestaticapps.net/",
-            tags: ["svelte", "geospatial", "website", "work"]
-        },
-        {
-            title: "Green Energy",
-            desc: "Shows suitability of green energy infrastructure at a location. ",
-            link: "https://lemon-bush-00c674003.1.azurestaticapps.net/",
-            tags: ["svelte", "geospatial", "website", "work"]
-        },
-        {
-          title: "Pret Share",
-          desc: "Small web app that helps you share a Pret Subscription. Made to learn Firebase.",
-          link: "https://pret-share.web.app/",
-          tags: ["svelte", "firebase", "website", "personal"]
-        }
 
-    ]
-
-    const blogs = [
-        {
-            title: "Monitoring Sewage from Space",
-            desc: "ArcGIS StoryMap about using EO to detect sewage overspill, presented at COP27.",
-            link: "https://storymaps.arcgis.com/stories/2386c7178666421a8ee69a94c6bfb1a6",
-            tags: ["geospatial", "eo", "work"]
-        },
-        {
-            title: "Get Pret Go",
-            desc: "Blog post about the Pret Crawl algorithm, used in the Pret Crawl website (above).",
-            link: "https://python.plainenglish.io/get-pret-go-a-geospatial-project-966ad04f5fb9",
-            tags: ["python", "geospatial", "work"]
-        },
-        {
-            title: "OS Data Hub OAuth API",
-            desc: "How to securely use the OS Data Hub with OAuth.",
-            link: "https://github.com/dchirst/osdatahub-oauth-blogpost",
-            tags: ["work"]
-        },
-        {
-            title: "Peat Health Index",
-            desc: "ArcGIS StoryMap about using EO to monitor peatlands, presented at COP26.",
-            link: "https://storymaps.arcgis.com/stories/68ac541504fc4714b371b1a33e540c95",
-            tags: ["geospatial", "eo", "work"]
-          },
-        {
-            title: "London's Blue Plaques",
-            desc: "Spatial analysis of London's Blue Plaques.",
-            link: "https://python.plainenglish.io/finding-the-densest-area-of-londons-blue-plaques-with-geospatial-data-f5559ebfef21",
-            tags: ["python", "geospatial", "work"]
-        },
-        {
-            title: "Vector Data in Python",
-            desc: "Blog post about easily showing points, lines, and polygons on maps.",
-            link: "https://python.plainenglish.io/how-to-easily-display-vector-geospatial-data-in-python-c739482c395",
-            tags: ["python", "geospatial", "work"]
-        },
-        {
-            title: "Open Source Coding",
-            desc: "Blog detailing our first expedition into open-source software development.",
-            link: "https://python.plainenglish.io/our-first-expedition-into-open-source-coding-d62810453d3c",
-            tags: ["work"]
-        }
-    ]
-
-    const other = [
-        {
-            title: "Chapel Thrill Escapes",
-            desc: "Non-profit escape room company.",
-            link: "https://www.chapelthrillescapes.com/",
-            tags: ["personal"]
-
-        },
-        {
-            title: "Prospero Space Fellowship",
-            desc: "Internships, mentorships, and retreats for students.",
-            link: "https://prosperofellowship.org/",
-            tags: ["space", "personal"]
-
+            title: "HPV and cervical cancer stigma",
+            tags: ["cervical cancer", "women’s sexual health", "stigma", "global health"]
         }
     ]
       
-    let tags = [...code, ...blogs, ...other] 
+    let tags = [...projects] 
           .map(x => x.tags)
           .flat();
       let unique_tags = [...new Set(tags)];
@@ -147,6 +59,6 @@
 </div>
 
 
-<PortfolioSection title="Code" content="{code}" active_tag="{active_tag}"></PortfolioSection>
-<PortfolioSection title="Blogs" content="{blogs}" active_tag="{active_tag}"></PortfolioSection>
-<PortfolioSection title="Other" content="{other}" active_tag="{active_tag}"></PortfolioSection>
+<PortfolioSection title="Projects" content="{projects}" active_tag="{active_tag}"></PortfolioSection>
+<!-- <PortfolioSection title="Blogs" content="{blogs}" active_tag="{active_tag}"></PortfolioSection> -->
+<!-- <PortfolioSection title="Other" content="{other}" active_tag="{active_tag}"></PortfolioSection> -->
