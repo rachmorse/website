@@ -5,32 +5,33 @@
 
     let projects = [
         {
-            title: "How an App Can Support Child Tuberculosis Treatment",
+            title: "A Mobile App for Child TB Treatment",
             tags: ["mobile technology", "tuberculosis", "global health"],
+            desc: "We propose using a mobile app to improve children’s experience of and adherence to tuberculosis treatment in South Africa.",
             long_desc: "Tuberculosis treatment for children is often challenging, with unpleasant drugs that cause serious side effects. In this article, we propose using a mobile app to improve children’s experience of and adherence to tuberculosis treatment, based on our research in South Africa."
         },
         {
-            title: "How Self-reflection Relates to Indicators of Alzheimer's",
-            tags: ["neuroscience", "alzheimer’s disease", "neuroimaging"],
-            long_desc: "We found that self-reflection was linked to better memory performance and higher brain activity, but not to lower levels of amyloid, a protein that accumulates in the brain and associated with Alzheimer’s."
+            title: "Self-Reflection and Indicators of Alzheimer's",
+            tags: ["neuroscience", "dementia", "neuroimaging"],
+            desc: "We found that self-reflection in older adults was associated with better memory performance and glucose metabolism – both protective markers against Alzheimer’s.",
+            long_desc: "We found that self-reflection was associate with increased memory and increased brain activity in older adults."
         },
         {
-            title: "Using ablative therapy to prevent cervical cancer",
-            tags: ["Cervical cancer", "women’s sexual health", "global health", "qualitative"],
+            title: "Screen-and-Treat for Cervical Precancer",
+            tags: ["cervical cancer", "global health", "qualitative"],
             long_desc: "Preventing cervical cancer in remote, low-resource settings can face challenges related to getting equipment to appropriate places. An HPV-based screen-and-treat approach with ablative therapy aims to address many of these challenges. We aimed to understand whether the recipients of these treatment approaches – women – find the treatment acceptable, and found that while women experienced minor side effects with the treatment, they expressed satisfaction and relief that they were able to receive ablative therapy treatment."
         },
         {
-            title: "Improving Breast Cancer Treatment",
+            title: "Breast Cancer Treatment Experiences",
             tags: ["breast cancer", "global health", "qualitative"],
         },
         {
-            title: "Decreasing rates of loss to follow up in cervical cancer prevention and treatment",
-            tags: ["cervical cancer", "women’s sexual health", "global health", "qualitative"]
+            title: "Loss to Follow up in Cervical Cancer",
+            tags: ["cervical cancer", "global health", "qualitative"]
         },
         {
-
-            title: "HPV and cervical cancer stigma",
-            tags: ["cervical cancer", "women’s sexual health", "stigma", "global health"]
+            title: "HPV and Cervical Cancer Stigma",
+            tags: ["cervical cancer", "stigma", "global health"]
         }
     ]
       
