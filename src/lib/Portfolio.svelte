@@ -6,32 +6,36 @@
     let projects = [
         {
             title: "A Mobile App for Child TB Treatment",
-            tags: ["mobile technology", "tuberculosis", "global health"],
-            desc: "We propose using a mobile app to improve children’s experience of and adherence to tuberculosis treatment in South Africa.",
-            long_desc: "Tuberculosis treatment for children is often challenging, with unpleasant drugs that cause serious side effects. In this article, we propose using a mobile app to improve children’s experience of and adherence to tuberculosis treatment, based on our research in South Africa."
+            tags: ["global health","tuberculosis", "mobile technology"],
+            desc: "Our research proposes using a mobile app to help children in South Africa complete their TB treatment and have a better experience with it.",
+            long_desc: "Children with TB and their caregivers are aware of the importance of treatment, but TB treatment for children is often difficult, with drugs that have an unpleasant taste and serious side effects. As a result, many children fail to complete their full treatment, despite their initial motivation, and face the risk of developing drug resistant TB or even death. In this article, we suggest using a mobile app to enhance children’s experience of and adherence to TB treatment in South Africa. Our app features an avatar, rewards, and social support to address common challenges in TB treatment and improve the well-being of children and their caregivers throughout the treatment process."
         },
         {
-            title: "Self-Reflection and Indicators of Alzheimer's",
+            title: "Self-Reflection and Dementia Risk",
             tags: ["neuroscience", "dementia", "neuroimaging"],
-            desc: "We found that self-reflection in older adults was associated with better memory performance and glucose metabolism – both protective markers against Alzheimer’s.",
-            long_desc: "We found that self-reflection was associate with increased memory and increased brain activity in older adults."
+            desc: "Our study found that self-reflection may help older adults have better memory and brain health, potentially protecting them from dementia.",
+            long_desc: "Dementia is a devastating disease that affects over 50 million people worldwide. However, up to one third of cases can be prevented by addressing modifiable lifestyle risk factors, such as poor diet and lack of physical activity. Psychological factors that may increase dementia risk have received less attention. This study examined one of them: self-reflection, which involves actively assessing one’s own thoughts, feelings, and behaviors. We found that older adults who engaged in more self-reflection had better memory performance and higher glucose metabolism. These factors are both protective against Alzheimer’s disease, the most common form of dementia."
         },
         {
             title: "Screen-and-Treat for Cervical Precancer",
-            tags: ["cervical cancer", "global health", "qualitative"],
+            tags: ["global health", "cervical cancer", "qualitative"],
+            desc: "Our study found that ablative therapy - a type of cervical precancer treatment - may be a safe and acceptable for women with HPV",
             long_desc: "Preventing cervical cancer in remote, low-resource settings can face challenges related to getting equipment to appropriate places. An HPV-based screen-and-treat approach with ablative therapy aims to address many of these challenges. We aimed to understand whether the recipients of these treatment approaches – women – find the treatment acceptable, and found that while women experienced minor side effects with the treatment, they expressed satisfaction and relief that they were able to receive ablative therapy treatment."
         },
         {
             title: "Breast Cancer Treatment Experiences",
-            tags: ["breast cancer", "global health", "qualitative"],
+            tags: ["global health", "breast cancer", "qualitative"],
+            desc: "Our research found that women with breast cancer in low-resource settings may need more informational support to help them cope with treatment.",
         },
         {
             title: "Loss to Follow up in Cervical Cancer",
-            tags: ["cervical cancer", "global health", "qualitative"]
+            tags: ["global health", "cervical cancer", "qualitative"],
+            desc: "Our research revealed that cervical cancer patients want treatment but encounter various financial and logistical obstacles that prevent access to it.",
         },
         {
             title: "HPV and Cervical Cancer Stigma",
-            tags: ["cervical cancer", "stigma", "global health"]
+            desc: "Our study found pervasive cervical cancer and HPV stigma that was perpetuated by the community, health care centers, and ministry of health guidelines.",
+            tags: ["global health", "cervical cancer", "stigma", "qualitative"]
         }
     ]
       
