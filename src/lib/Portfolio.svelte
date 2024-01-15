@@ -20,7 +20,7 @@
             title: "Screen-and-Treat for Cervical Precancer",
             tags: ["global health", "cervical cancer", "qualitative"],
             desc: "Our study found that ablative therapy - a type of cervical precancer treatment - may be a safe and acceptable for women with HPV",
-            long_desc: "Preventing cervical cancer in remote, low-resource settings can face challenges related to getting equipment to appropriate places. An HPV-based screen-and-treat approach with ablative therapy aims to address many of these challenges. We aimed to understand whether the recipients of these treatment approaches – women – find the treatment acceptable, and found that while women experienced minor side effects with the treatment, they expressed satisfaction and relief that they were able to receive ablative therapy treatment."
+            long_desc: "An HPV based screen-and-treat approach with ablative therapy can prevent cervical cancer. Patients who test positive for HPV, the cause of cervical cancer, can receive ablative therapy treatment at a clinic on the same day. The WHO recommends this approach, but ablative therapy is new and its effects on patients are not well understood. In this study, we aimed to understand whether patients found this HPV screening followed by ablative therapy acceptable and feasible. We found that, although patients experienced minor side effects from the treatment, they expressed satisfaction and relief, and wanted this approach to be available at more clinics."
         },
         {
             title: "Breast Cancer Treatment Experiences",
