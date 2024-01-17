@@ -23,7 +23,7 @@
               <Project link="{link}" desc="{desc}" title="{title}" tags="{tags}" active_tag="{active_tag}" bind:active_grid="{active_grid}" index="{index}"></Project>
               {#if active_grid == index}
               <div class=" mt-3 sm:hidden rounded-md bg-primary-200 p-3 w-full w-md mx-auto max-w-md" transition:slide={{...options, x: -150}}>
-                <article class="prose">
+                <article class="prose m-auto" >
                     <h1>{content[active_grid].title}</h1>
                     <p>{content[active_grid].long_desc}</p>
                 </article>
@@ -33,7 +33,7 @@
               {#if index % 2 == 1 || index == content.length - 1}
                 {#if active_grid == index || (active_grid % 2 == 0 && active_grid == index - 1)}
                   <div class=" mt-3 hidden sm:inline row-start-{Math.floor(index / 2) +2} rounded-md bg-primary-200 p-3 w-full sm:col-span-2" transition:slide={{...options, x: -150}}>
-                      <article class="prose">
+                      <article class="prose m-auto">
                           <h1>{content[active_grid].title}</h1>
                           <p>{content[active_grid].long_desc}</p>
                       </article>
