@@ -12,7 +12,7 @@
       </Lazy>
     
     <h1 class="">Rachel Morse</h1>
-    <h2>Doctoral Researcher</h2>
+    <h2>Predoctoral Research Fellow</h2>
     <div class="grid grid-cols-3 max-w-xs mx-auto grid-rows-1 grid-flow-row gap-4 text-center m-5">
 
       <a href="https://github.com/rachmorse" class="shadow-lg forced-colors:block hover:forced-colors:block p-2 dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400   text-primary-500 hover:bg-primary-500 hover:text-white mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"><Github/></a>
