@@ -4,11 +4,11 @@
 
 <SvelteSeo
 
-  title="Dan Hirst"
-  description="Portfolio website for Dan Hirst"
+  title="Rachel Morse"
+  description="Portfolio website for Rachel Morse"
   openGraph={{
     title: 'Dan Hirst',
-    description: 'Portfolio website for Dan Hirst, the coolest person in the universe',
+    description: 'Portfolio website for Rachel Morse, the coolest person in the universe, cooler than Dan',
     url: 'https://www.danhirst.me',
     type: 'website',
     images: [
