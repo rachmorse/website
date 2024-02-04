@@ -7,7 +7,7 @@
   title="Rachel Morse"
   description="Portfolio website for Rachel Morse"
   openGraph={{
-    title: 'Dan Hirst',
+    title: 'Rachel Morse',
     description: 'Portfolio website for Rachel Morse, the coolest person in the universe, cooler than Dan',
     url: 'https://www.danhirst.me',
     type: 'website',
@@ -16,7 +16,7 @@
         url: 'https://www.danhirst.me/headshot.jpg',
         width: 512,
         height: 512,
-        alt: 'World map emoji'
+        alt: 'Rachel Morse headshot'
       }
      ]
   }}

@@ -8,7 +8,7 @@
 <div class=" mb-10 mt-24 mx-auto">
 <div class="">
     <Lazy height={208}>
-        <img class="rounded-full mx-auto h-52" src="headshot.jpg" alt="Dan Hirst">
+        <img class="rounded-full mx-auto h-52" src="headshot.jpg" alt="Rachel Morse headshot">
       </Lazy>
     
     <h1 class="">Rachel Morse</h1>
@@ -23,7 +23,7 @@
 <h2 class="text-3xl text-center">About</h2>
 <p class="text-left p-4">I am a ‘La Caixa’ Fellow pursuing a PhD in neuroscience at the University of Barcelona, where I investigate reserve and resilience in aging. I have a background in psychology and global health that has given me the opportunity to work in child TB in South Africa, cervical cancer in Peru, and dementia prevention in the UK. In my free time, I enjoy being outdoors and hiking in the mountains around Barcelona. </p>
 <div class="mx-auto h-auto my-auto m-4">
-    <a class="email w-32 text-primary-500 dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400 forced-colors:block p-2 rounded-md shadow-lg appearance-none ease-in duration-100 hover:bg-primary-500  hover:text-white border-solid border-2 border-primary-500" href="79757d78607b2e70777c7d66676024547379757d783a777b79" rel="nofollow, noindex">
+    <a class="email w-32 text-primary-500 dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400 forced-colors:block p-2 rounded-md shadow-lg appearance-none ease-in duration-100 hover:bg-primary-500  hover:text-white border-solid border-2 border-primary-500" href="79757d78607b2e6675777c7178797b6667716260547379757d783a777b79" rel="nofollow, noindex">
         Get in touch
     </a>
 </div>
