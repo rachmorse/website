@@ -1,3 +1,6 @@
+<script>
+    import Lazy from "svelte-lazy";
+</script>
 <div class="text-left dark:text-white">
     <p>An HPV based screen-and-treat approach with ablative therapy can prevent cervical cancer. Patients who test
         positive for HPV, the cause of cervical cancer, can receive ablative therapy treatment at a clinic on the same
@@ -6,6 +9,9 @@
     <p>In this study, we aimed to understand whether patients found ablative therapy treatment acceptable and feasible.
         We found that, although patients experienced minor side effects, they experienced satisfaction and relief, and
         wanted this treatment to be available at more clinics.</p>
+    <Lazy>
+        <img alt="screen and treat thought" src="screentreat-thought.svg"/>
+    </Lazy>
     <p><strong class="dark:text-white">Morse, R. M.</strong>, Brown, J., Nobel, H. E., […] Paz-Soldan, V.A., & the
         Proyecto Precancer Study Group (2022). “Patient's perspectives on the acceptability and feasibility of an HPV
         screen-and-treat approach to cervical cancer prevention in Iquitos, Peru.” BMC Women’s Health. <a

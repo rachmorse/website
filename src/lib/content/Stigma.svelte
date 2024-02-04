@@ -17,6 +17,8 @@
         offer screening to all eligible women, regardless of sexual history.</p>
     <Lazy>
         <img alt="stigma" src="stigma_img.png"/>
+        <img alt="thought" src="stigma-thought.svg"/>
+        <img alt="stigma-chat" src="stigma-chat.jpg"/>
     </Lazy>
     <p><strong class="dark:text-white">Morse, R. M.</strong>, Brown, J., Gage, J.C., […] Paz-Soldan, V.A., & the
         Proyecto Precancer Study Group. “‘Easy women get it’: pre-existing stigma associated with HPV and cervical
