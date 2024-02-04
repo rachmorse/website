@@ -1,12 +1,11 @@
 <script>
-  import SvelteSeo from "svelte-seo";
+    import SvelteSeo from "svelte-seo";
 </script>
 
 <SvelteSeo
 
-  title="Rachel Morse"
-  description="Portfolio website for Rachel Morse"
-  openGraph={{
+        description="Portfolio website for Rachel Morse"
+        openGraph={{
     title: 'Rachel Morse',
     description: 'Portfolio website for Rachel Morse, the coolest person in the universe, cooler than Dan',
     url: 'https://www.danhirst.me',
@@ -20,4 +19,5 @@
       }
      ]
   }}
+        title="Rachel Morse"
 />
