@@ -10,6 +10,9 @@
         We found that, although patients experienced minor side effects, they experienced satisfaction and relief, and
         wanted this treatment to be available at more clinics.</p>
     <Lazy>
+        <a href="screen-treat.pdf" target="_blank" rel="noreferrer">
+            <img alt="screen and treat" src="screen-treat.jpg"/>
+        </a>
         <img alt="screen and treat thought" src="screentreat-thought.svg"/>
     </Lazy>
     <p><strong class="dark:text-white">Morse, R. M.</strong>, Brown, J., Nobel, H. E., […] Paz-Soldan, V.A., & the
