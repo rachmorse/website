@@ -7,6 +7,7 @@
     import BreastCancer from "./content/BreastCancer.svelte";
     import FollowUp from "./content/FollowUp.svelte";
     import Stigma from "./content/Stigma.svelte";
+    import Ltfu2 from "./content/LTFU2.svelte";
 
 
     let projects = [
@@ -35,7 +36,7 @@
             long_desc: BreastCancer
         },
         {
-            title: "Loss to Follow up in Cervical Cancer",
+            title: "Hospital-Level Loss to Follow up in Cervical Cancer",
             tags: ["global health", "cervical cancer", "qualitative"],
             desc: "Our research revealed that cervical cancer patients want treatment but encounter various financial and logistical obstacles that prevent access to it.",
             long_desc: FollowUp
@@ -45,6 +46,12 @@
             desc: "Our study found pervasive cervical cancer and HPV stigma that was perpetuated by the community, health care centers, and ministry of health guidelines.",
             tags: ["global health", "cervical cancer", "stigma", "qualitative"],
             long_desc: Stigma
+        },
+        {
+            title: "Primary-Level Loss to Follow up in Cervical Cancer",
+            desc: "We found that a lack of patient monitoring and registration systems, which made it challenging to for staff to deliver results and for motivated patients to receive the care they needed.",
+            tags: ["global health", "cervical cancer", "qualitative"],
+            long_desc: Ltfu2
         }
     ]
 
