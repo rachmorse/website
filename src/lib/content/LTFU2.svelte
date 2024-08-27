@@ -13,8 +13,8 @@
         We encourage healthcare systems to ensure they have complete the registry systems for patient follow-up, and to 
         also use patient navigators who can help in providing better educational materials and support to patients. </p>
     <Lazy>
-        <img alt="HPV followup card" src="VPH tarjeta.jpg"/>
         <img alt="ltfu table" src="ltfu2 table.jpeg"/>
+        <img alt="HPV followup card" src="VPH tarjeta.jpg"/>
     </Lazy>
     <p><strong class="dark:text-white">Morse, R. M.</strong>, Brown, J., Ríos López, E. J., […], Paz-Soldan, V. A., & 
         the Proyecto Precancer Study Group. “Challenges associated with follow-up care after implementation of an HPV 
