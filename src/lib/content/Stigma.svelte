@@ -20,9 +20,10 @@
         <img alt="thought" src="stigma-thought.svg"/>
         <img alt="stigma-chat" src="stigma-chat.jpg"/>
     </Lazy>
-    <p><strong class="dark:text-white">Morse, R. M.</strong>, Brown, J., Gage, J.C., […] Paz-Soldan, V.A., & the
+    <p><strong class="dark:text-white">Morse, R. M.†</strong>, Brown, J.†, Gage, J.C., […] Paz-Soldan, V.A., & the
         Proyecto Precancer Study Group. “‘Easy women get it’: pre-existing stigma associated with HPV and cervical
         cancer in a low-resource setting prior to implementation of an HPV screen-and-treat program.” BMC Public Health.
         <a class="text-primary-500 dark:text-primary-200" href="http://doi.org/10.1186/s12889-023-17324-w"
            rel="noreferrer" target="_blank">http://doi.org/10.1186/s12889-023-17324-w</a></p>
+           † denotes coauthorship
 </div>
