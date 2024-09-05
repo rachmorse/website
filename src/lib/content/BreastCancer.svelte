@@ -11,7 +11,7 @@
         We suggest that breast cancer programs provide more informational support to help women cope with breast cancer
         treatment.</p>
     <Lazy>
-        <img alt="breast cancer perspective" class="mx-auto" src="breastcancer-thought.svg"/>
+        <img alt="breast cancer perspective" class="mx-auto" src="breast cancer quote.png"/>
     </Lazy>
     <p>Fields, B. C., <strong class="dark:text-white">Morse, R. M.</strong>, Ortega, E., […] Paz-Soldan, V.A. (2023) “’I
         wanted information’: Navigating Breast Cancer and Its Treatment in Lima, Peru.” BMC Women’s Health. <a

@@ -8,13 +8,15 @@
     import FollowUp from "./content/FollowUp.svelte";
     import Stigma from "./content/Stigma.svelte";
     import Ltfu2 from "./content/LTFU2.svelte";
+    import rnt from './content/rnt.svelte';
+    import appletree from './content/appletree.svelte';
 
 
     let projects = [
         {
             title: "Primary-Level Loss to Follow up in Cervical Cancer",
             desc: "A new cervical cancer prevention program reduced barriers to follow-up care, but incomplete registration systems, along with barriers like lack of understanding about HPV, still prevented patients from accessing treatment.",
-            tags: ["global health", "cervical cancer", "qualitative"],
+            tags: ["global health", "cervical cancer"],
             long_desc: Ltfu2
         },
         {
@@ -26,30 +28,30 @@
         {
             title: "Lifestyle Approaches to Dementia Prevention",
             desc: "We found that healthcare professionals believe lifestyle changes like diet and exercise can help prevent dementia, but they need better guidance and more resources to successfully run these programs.",
-            tags: ["dementia", "qualitative", "implementation science"],
+            tags: ["dementia", "implementation science"],
             long_desc: appletree
         },
         {
             title: "HPV and Cervical Cancer Stigma",
             desc: "Our study found pervasive cervical cancer and HPV stigma that was perpetuated by the community, health care centers, and ministry of health guidelines.",
-            tags: ["global health", "cervical cancer", "stigma", "qualitative"],
+            tags: ["global health", "cervical cancer", "stigma"],
             long_desc: Stigma
         },
         {
             title: "Hospital-Level Loss to Follow up in Cervical Cancer",
-            tags: ["global health", "cervical cancer", "qualitative"],
+            tags: ["global health", "cervical cancer"],
             desc: "Our research revealed that cervical cancer patients want treatment but encounter various financial and logistical obstacles that prevent access to it.",
             long_desc: FollowUp
         },
         {
             title: "Breast Cancer Treatment Experiences",
-            tags: ["global health", "breast cancer", "qualitative"],
+            tags: ["global health", "breast cancer"],
             desc: "Our research found that women with breast cancer in low-resource settings may need more informational support to help them cope with treatment.",
             long_desc: BreastCancer
         },
         {
             title: "Screen-and-Treat for Cervical Precancer",
-            tags: ["global health", "cervical cancer", "qualitative"],
+            tags: ["global health", "cervical cancer"],
             desc: "Our study found that ablative therapy - a type of cervical precancer treatment - may be a safe and acceptable for women with HPV",
             long_desc: ScreenTreat
         },

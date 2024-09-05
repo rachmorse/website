@@ -13,7 +13,7 @@
         <a href="screen-treat.pdf" target="_blank" rel="noreferrer">
             <img alt="screen and treat" src="screen-treat.jpg"/>
         </a>
-        <img alt="screen and treat thought" src="screentreat-thought.svg"/>
+        <img alt="screen and treat thought" src="tvtta quote.png"/>
     </Lazy>
     <p><strong class="dark:text-white">Morse, R. M.</strong>, Brown, J., Nobel, H. E., […] Paz-Soldan, V.A., & the
         Proyecto Precancer Study Group (2022). “Patient's perspectives on the acceptability and feasibility of an HPV

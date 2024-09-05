@@ -9,7 +9,6 @@
         that older adults who engaged in more self-reflection had better memory performance and higher glucose
         metabolism. These factors are both protective against Alzheimer’s disease, the most common form of dementia.</p>
     <Lazy>
-        <img alt="Self Reflection study participants" src="selfreflection-participants.svg"/>
         <img alt="Self Reflection study results" src="selfreflection-summary.svg"/>
     </Lazy>
     <p>Demnitz-King, H., Gonneaud, J., Klimecki, O.M., […] <strong class="dark:text-white">Morse, R. M.</strong>, […]

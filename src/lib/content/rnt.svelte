@@ -15,10 +15,10 @@
     </Lazy>
 
     <p>All of the analysis code for this project is available <a class="text-primary-500 dark:text-primary-200"
-        href="https://github.com/rachmorse/Worry-Rumination-and-Older-Adult-Health" rel="noreferrer" target="_blank">here for openess and transparency.</a></p>
+        href="https://github.com/rachmorse/Worry-Rumination-and-Older-Adult-Health" rel="noreferrer" target="_blank">here</a> for openess and transparency.</p>
     <p><strong class="dark:text-white">Morse, R. M.†</strong>, Koutsoubelis, F.†, Whitfield, T., […], Marchant, N. L., & for the Medit-Ageing Research Group 
         “Worry and ruminative brooding: associations with cognitive and physical health in older adults.” Frontiers in Psychology. <a class="text-primary-500 dark:text-primary-200"
                            href="https://doi.org/10.3389/fpsyg.2024.1332398" rel="noreferrer" target="_blank">https://doi.org/10.3389/fpsyg.2024.1332398</a>
-                           † denotes coauthorship
     </p>
+    <p><small>† denotes coauthorship</small></p>
 </div>

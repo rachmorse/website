@@ -12,7 +12,7 @@
         the hospital, and others were cognitive, such as not receiving clear information from healthcare providers. We
         suggest that cervical cancer programs focus on addressing these barriers.</p>
     <Lazy>
-        <img alt="followup table" src="followup-table.svg"/>
+        <img alt="followup table" src="ltfu1 table.png"/>
         <img alt="followup speech" src="followup-people.svg"/>
     </Lazy>
     <p><strong class="dark:text-white">Morse, R. M.</strong>, Jurczuk, M., Brown, J., […] Paz-Soldan, V.A., & the
