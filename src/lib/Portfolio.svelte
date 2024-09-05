@@ -16,30 +16,30 @@
         {
             title: "Primary-Level Loss to Follow up in Cervical Cancer",
             desc: "A new cervical cancer prevention program reduced barriers to follow-up care, but incomplete registration systems, along with barriers like lack of understanding about HPV, still prevented patients from accessing treatment.",
-            tags: ["global health", "cervical cancer"],
+            tags: ["global health", "cervical cancer", "prevention"],
             long_desc: Ltfu2
         },
         {
             title: "Mental Health and Physical and Cognitive Health",
             desc: "We found that older adults who frequently worry or ruminate report worse physical health and cognition, suggesting that reducing negative thinking could improve their overall wellbeing.",
-            tags: ["cognition", "psychology", "mental health"],
+            tags: ["cognitive health", "psychology", "physical health"],
             long_desc: rnt
         },
         {
             title: "Lifestyle Approaches to Dementia Prevention",
             desc: "We found that healthcare professionals believe lifestyle changes like diet and exercise can help prevent dementia, but they need better guidance and more resources to successfully run these programs.",
-            tags: ["dementia", "implementation science"],
+            tags: ["dementia", "implementation science", "prevention"],
             long_desc: appletree
         },
         {
             title: "HPV and Cervical Cancer Stigma",
             desc: "Our study found pervasive cervical cancer and HPV stigma that was perpetuated by the community, health care centers, and ministry of health guidelines.",
-            tags: ["global health", "cervical cancer", "stigma"],
+            tags: ["global health", "cervical cancer", "psychology"],
             long_desc: Stigma
         },
         {
             title: "Hospital-Level Loss to Follow up in Cervical Cancer",
-            tags: ["global health", "cervical cancer"],
+            tags: ["global health", "cervical cancer", "prevention"],
             desc: "Our research revealed that cervical cancer patients want treatment but encounter various financial and logistical obstacles that prevent access to it.",
             long_desc: FollowUp
         },
@@ -51,13 +51,13 @@
         },
         {
             title: "Screen-and-Treat for Cervical Precancer",
-            tags: ["global health", "cervical cancer"],
+            tags: ["global health", "cervical cancer", "prevention"],
             desc: "Our study found that ablative therapy - a type of cervical precancer treatment - may be a safe and acceptable for women with HPV",
             long_desc: ScreenTreat
         },
         {
             title: "Self-Reflection and Dementia Risk",
-            tags: ["neuroscience", "dementia", "neuroimaging"],
+            tags: ["neuroscience", "dementia", "cognitive health"],
             desc: "Our study found that self-reflection may help older adults have better memory and brain health, potentially protecting them from dementia.",
             long_desc: SelfReflection
         },
