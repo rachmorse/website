@@ -15,11 +15,32 @@
     <p>We propose that cervical cancer prevention programs address stigma throughout the healthcare system and, instead
         of focusing on associations between HPV and sexual behaviors, provide comprehensive information about HPV and
         offer screening to all eligible women, regardless of sexual history.</p>
+
+        <hr style="width: 100%; height: 2px; margin: 10px auto 30px; background-color: white; border: none;">
+
+    <h4 style="text-align: center; margin-bottom: 5px;">The Developement of HPV</h4>
+    <hr style="width: 33%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <p style="margin: 0; line-height: 1.2;"><small>
+        This infographic highlights the prevalence of HPV, showing how common it is even though most women do not go on to 
+        develop cervical cancer. We created it to promote understanding that HPV is common and no one should feel shame for having it.
+    </small></p>
     <Lazy>
         <img alt="stigma" src="stigma_img.png"/>
+
+        <h4 style="text-align: center; margin-bottom: 5px;">Participant Quote</h4>
+        <hr style="width: 23%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
         <img alt="thought" src="stigma-thought.svg"/>
+        
+        <h4 style="text-align: center; margin-bottom: 5px;">HPV and Blame</h4>
+        <hr style="width: 20%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+        <p style="margin: 0; line-height: 1.2;"><small>
+            This infographic shows that anyone can get HPV, no matter their sexual practices. 
+            We created it to encourage focusing on treatment rather than how someone got HPV.
+        </small></p>
         <img alt="stigma-chat" src="stigma-chat.jpg"/>
     </Lazy>
+    <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
+    <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-white">Morse, R. M.†</strong>, Brown, J.†, Gage, J.C., […] Paz-Soldan, V.A., & the
         Proyecto Precancer Study Group. “‘Easy women get it’: pre-existing stigma associated with HPV and cervical
         cancer in a low-resource setting prior to implementation of an HPV screen-and-treat program.” BMC Public Health.
