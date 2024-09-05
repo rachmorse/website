@@ -12,34 +12,22 @@
 
     let projects = [
         {
-            title: "A Mobile App for Child TB Treatment",
-            tags: ["global health", "tuberculosis", "mobile technology"],
-            desc: "Our research proposes using a mobile app to help children in South Africa complete their TB treatment and have a better experience with it.",
-            long_desc: TBApp
-        },
-        {
-            title: "Self-Reflection and Dementia Risk",
-            tags: ["neuroscience", "dementia", "neuroimaging"],
-            desc: "Our study found that self-reflection may help older adults have better memory and brain health, potentially protecting them from dementia.",
-            long_desc: SelfReflection
-        },
-        {
-            title: "Screen-and-Treat for Cervical Precancer",
+            title: "Primary-Level Loss to Follow up in Cervical Cancer",
+            desc: "A new cervical cancer prevention program reduced barriers to follow-up care, but incomplete registration systems, along with barriers like lack of understanding about HPV, still prevented patients from accessing treatment.",
             tags: ["global health", "cervical cancer", "qualitative"],
-            desc: "Our study found that ablative therapy - a type of cervical precancer treatment - may be a safe and acceptable for women with HPV",
-            long_desc: ScreenTreat
+            long_desc: Ltfu2
         },
         {
-            title: "Breast Cancer Treatment Experiences",
-            tags: ["global health", "breast cancer", "qualitative"],
-            desc: "Our research found that women with breast cancer in low-resource settings may need more informational support to help them cope with treatment.",
-            long_desc: BreastCancer
+            title: "Mental Health and Physical and Cognitive Health",
+            desc: "We found that older adults who frequently worry or ruminate report worse physical health and cognition, suggesting that reducing negative thinking could improve their overall wellbeing.",
+            tags: ["cognition", "psychology", "mental health"],
+            long_desc: rnt
         },
         {
-            title: "Hospital-Level Loss to Follow up in Cervical Cancer",
-            tags: ["global health", "cervical cancer", "qualitative"],
-            desc: "Our research revealed that cervical cancer patients want treatment but encounter various financial and logistical obstacles that prevent access to it.",
-            long_desc: FollowUp
+            title: "Lifestyle Approaches to Dementia Prevention",
+            desc: "We found that healthcare professionals believe lifestyle changes like diet and exercise can help prevent dementia, but they need better guidance and more resources to successfully run these programs.",
+            tags: ["dementia", "qualitative", "implementation science"],
+            long_desc: appletree
         },
         {
             title: "HPV and Cervical Cancer Stigma",
@@ -48,10 +36,34 @@
             long_desc: Stigma
         },
         {
-            title: "Primary-Level Loss to Follow up in Cervical Cancer",
-            desc: "We found that a lack of patient monitoring and registration systems, which made it challenging to for staff to deliver results and for motivated patients to receive the care they needed.",
+            title: "Hospital-Level Loss to Follow up in Cervical Cancer",
             tags: ["global health", "cervical cancer", "qualitative"],
-            long_desc: Ltfu2
+            desc: "Our research revealed that cervical cancer patients want treatment but encounter various financial and logistical obstacles that prevent access to it.",
+            long_desc: FollowUp
+        },
+        {
+            title: "Breast Cancer Treatment Experiences",
+            tags: ["global health", "breast cancer", "qualitative"],
+            desc: "Our research found that women with breast cancer in low-resource settings may need more informational support to help them cope with treatment.",
+            long_desc: BreastCancer
+        },
+        {
+            title: "Screen-and-Treat for Cervical Precancer",
+            tags: ["global health", "cervical cancer", "qualitative"],
+            desc: "Our study found that ablative therapy - a type of cervical precancer treatment - may be a safe and acceptable for women with HPV",
+            long_desc: ScreenTreat
+        },
+        {
+            title: "Self-Reflection and Dementia Risk",
+            tags: ["neuroscience", "dementia", "neuroimaging"],
+            desc: "Our study found that self-reflection may help older adults have better memory and brain health, potentially protecting them from dementia.",
+            long_desc: SelfReflection
+        },
+        {
+            title: "A Mobile App for Child TB Treatment",
+            tags: ["global health", "tuberculosis", "mobile technology"],
+            desc: "Our research proposes using a mobile app to help children in South Africa complete their TB treatment and have a better experience with it.",
+            long_desc: TBApp
         }
     ]
 
