@@ -28,7 +28,9 @@
             The top figures show that as worry and rumination increase perceived physical health decreases. 
             The bottom figures show that as worry and rumination increase so do cognitive difficulties, such as poorer memory.       
         </small></p> 
-        <img alt="rnt graphs" src="rnt graphs.jpeg"/>
+        <a href="rnt graphs.jpeg" target="_blank" rel="noreferrer">
+            <img alt="rnt graphs" src="rnt graphs.jpeg"/>
+        </a>
     </Lazy>
     
     <h4 style="text-align: center; margin-bottom: 5px;">Analysis Code</h4>
@@ -36,7 +38,6 @@
     <p>All of the analysis code for this project is available <a class="text-primary-500 dark:text-primary-200"
         href="https://github.com/rachmorse/Worry-Rumination-and-Older-Adult-Health" rel="noreferrer" target="_blank">here</a> for openess and transparency.</p>
     
-    <hr style="width: 100%; height: 2px; margin: 30px auto 30px; background-color: lightgrey; border: none;">
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-white">Morse, R. M.†</strong>, Koutsoubelis, F.†, Whitfield, T., […], Marchant, N. L., & for the Medit-Ageing Research Group 
