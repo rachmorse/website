@@ -10,9 +10,12 @@
         thinking tended to report having poorer health. Developing interventions that target these negative thinking styles may 
         improve how older adults feel and function in daily life, ultimately supporting healthier aging. </p>
     <Lazy>
-        <img alt="ltfu table" src="ltfu2 table.jpeg"/>
-        <img alt="HPV followup card" src="VPH tarjeta.jpg"/>
+        <img alt="rnt findings" src="rnt findings.png"/>
+        <img alt="rnt graphs" src="rnt graphs.jpeg"/>
     </Lazy>
+
+    <p>All of the analysis code for this project is available <a class="text-primary-500 dark:text-primary-200"
+        href="https://github.com/rachmorse/Worry-Rumination-and-Older-Adult-Health" rel="noreferrer" target="_blank">here.</a></p>
     <p><strong class="dark:text-white">Morse, R. M.†</strong>, Koutsoubelis, F.†, Whitfield, T., […], Marchant, N. L., & for the Medit-Ageing Research Group 
         “Worry and ruminative brooding: associations with cognitive and physical health in older adults.” Frontiers in Psychology. <a class="text-primary-500 dark:text-primary-200"
                            href="https://doi.org/10.3389/fpsyg.2024.1332398" rel="noreferrer" target="_blank">https://doi.org/10.3389/fpsyg.2024.1332398</a>
