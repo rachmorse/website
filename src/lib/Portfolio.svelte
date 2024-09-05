@@ -15,19 +15,19 @@
     let projects = [
         {
             title: "Primary-Level Loss to Follow up in Cervical Cancer",
-            desc: "A new cervical cancer prevention program reduced barriers to follow-up care, but incomplete registration systems, along with barriers like lack of understanding about HPV, still prevented patients from accessing treatment.",
+            desc: "Our new cervical cancer program reduced barriers to care, but incomplete registration systems, along with barriers like lack of understanding about HPV, still prevented patients from accessing treatment.",
             tags: ["global health", "cervical cancer", "prevention"],
             long_desc: Ltfu2
         },
         {
-            title: "Mental Health and Physical and Cognitive Health",
-            desc: "We found that older adults who frequently worry or ruminate report worse physical health and cognition, suggesting that reducing negative thinking could improve their overall wellbeing.",
+            title: "Mental Health & Physical and Cognitive Health",
+            desc: "We found that older adults who frequently worry or ruminate report worse physical health and memory. Reducing their negative thinking may help improve overall wellbeing.",
             tags: ["cognitive health", "psychology", "physical health"],
             long_desc: rnt
         },
         {
             title: "Lifestyle Approaches to Dementia Prevention",
-            desc: "We found that healthcare professionals believe lifestyle changes like diet and exercise can help prevent dementia, but they need better guidance and more resources to successfully run these programs.",
+            desc: "We found that healthcare professionals believe lifestyle changes can help prevent dementia, but they need guidance and more resources to successfully run these programs.",
             tags: ["dementia", "implementation science", "prevention"],
             long_desc: appletree
         },
@@ -52,7 +52,7 @@
         {
             title: "Screen-and-Treat for Cervical Precancer",
             tags: ["global health", "cervical cancer", "prevention"],
-            desc: "Our study found that ablative therapy - a type of cervical precancer treatment - may be a safe and acceptable for women with HPV",
+            desc: "Our study found that ablative therapy - a type of cervical precancer treatment - may be safe and acceptable for women with HPV",
             long_desc: ScreenTreat
         },
         {

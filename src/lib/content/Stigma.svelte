@@ -3,7 +3,7 @@
 </script>
 <div class="text-left dark:text-white">
     <p>HPV is a common sexually transmitted disease that can develop into cervical cancer. Most women will get an HPV
-        infection in their lifetime that their bodies will be able control. However, in some cases, women will need
+        infection in their lifetime that their bodies will be able to control. However, in some cases, women will need
         treatment to help prevent HPV from developing into cervical cancer. An HPV infection can come from any past
         sexual partner, even if a woman has been in a monogamous relationship for a long time. Despite how common HPV
         is, HPV and cervical cancer are often stigmatized. </p>

@@ -6,7 +6,9 @@
     <p>Children with TB and their caregivers are aware of the importance of treatment, but TB treatment for children is
         often difficult, with drugs that have an unpleasant tastes and serious side effects. As a result, many children
         fail to complete their full treatment, despite their initial motivation, and face risk of developing drug
-        resistant TB or serious health complications. In this article, we suggest using a mobile app to improve
+        resistant TB or serious health complications.</p>
+        
+    <p> In this article, we suggest using a mobile app to improve
         children’s experience of and adherence to TB treatment in South Africa. Our app suggestion features an avatar,
         rewards, and social support to address common challenges in TB treatment and improve the well-being of children
         and their caregivers throughout the process.</p>

@@ -8,7 +8,7 @@
     <p>This study explored how to best scale-up and implement lifestyle-based dementia prevention programs in the UK. 
         We discussed the APPLE-Tree program with participants, which is one of the lifestyle-based dementia prevention 
         programs currently in clinical trials.</p>
-    <p>We found that health care professionals believed dementia prevention programs could improve cognition and 
+    <p>We found that health care professionals believed dementia prevention programs could improve memory and 
         wellbeing, but they emphasized the need for clear guidance on how to run the programs and solutions to address 
         funding and staffing shortages. We suggest dementia prevention programs aim to address these challenges in 
         order to successfully scale-up and ultimately reduce dementia prevalence.</p>

@@ -7,7 +7,7 @@
         to the hospital were not receiving the care they needed. </p>
     <p>In this study, we set out to understand why so many patients were not able to receive care. We found that, while
         patients were strongly motivated, they encountered many challenges. One main challenge was an inadequate
-        registration system where there was often no information about each patients’ care. Other challenges were
+        registration system where there was often no information about each patient's care. Other challenges were
         structural, such as long wait times or doctor strikes. Others were financial, including high cost of travel to
         the hospital, and others were cognitive, such as not receiving clear information from healthcare providers. We
         suggest that cervical cancer programs focus on addressing these barriers.</p>
@@ -17,7 +17,7 @@
     <h4 style="text-align: center; margin-bottom: 5px;">Barriers to Cervical Cancer Treatment</h4>
     <hr style="width: 49%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
-        This table highlights the main barriers patients face while attempting to receiving cervical cancer treatment 
+        This table highlights the main barriers patients face while attempting to receive cervical cancer treatment 
         at the hospital-level.
     </small></p> 
     <Lazy>

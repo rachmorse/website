@@ -4,10 +4,11 @@
 <div class="text-left dark:text-white">
     <p>Dementia is a devastating disease that affects over 50 million people worldwide. However, up to one third of
         cases can be prevented by addressing modifiable risk factors, such as poor diet and lack of physical activity.
-        Psychological factors that may increase dementia risk have received less attention. This study examined one of
-        them, self-reflection, which involves actively assessing your own thoughts, feelings, and behaviors. We found
-        that older adults who engaged in more self-reflection had better memory performance and higher glucose
-        metabolism. These factors are both protective against Alzheimer’s disease, the most common form of dementia.</p>
+        Psychological factors that may increase dementia risk have received less attention. </p>
+        
+    <p>This study examined one of them, self-reflection, which involves actively assessing your own thoughts, feelings, and behaviors. 
+        We found that older adults who engaged in more self-reflection had better memory performance and higher glucose
+        metabolism. These factors are protective against Alzheimer’s disease, the most common form of dementia.</p>
 
         <hr style="width: 100%; height: 2px; margin: 10px auto 30px; background-color: white; border: none;">
 

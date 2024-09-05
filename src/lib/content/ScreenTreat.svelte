@@ -4,7 +4,7 @@
 <div class="text-left dark:text-white">
     <p>An HPV based screen-and-treat approach with ablative therapy can prevent cervical cancer. Patients who test
         positive for HPV, the cause of cervical cancer, can receive ablative therapy treatment at a clinic on the same
-        day. The WHO recommends this approach, but ablative therapy is new and, though it is safe, the experience
+        day. The WHO recommends this approach, but ablative therapy is new and, though it is safe, the experience of
         patients receive this treatment is not well understood. </p>
     <p>In this study, we aimed to understand whether patients found ablative therapy treatment acceptable and feasible.
         We found that, although patients experienced minor side effects, they experienced satisfaction and relief, and

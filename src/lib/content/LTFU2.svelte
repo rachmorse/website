@@ -10,14 +10,14 @@
         did not receive care after we implemented the new cervical cancer prevention program. </p>
     <p>We found an incomplete patient monitoring system, which made it challenging to for staff to deliver results. 
         Patients wanted treatment but faced a lack of understanding about HPV, fear of treatment, and work-related barriers. 
-        We encourage healthcare systems to ensure they have complete the registry systems for patient follow-up, and to 
+        We encourage healthcare systems to ensure they have complete registry systems for patient follow-up, and to 
         also use patient navigators who can help in providing better educational materials and support to patients. </p>
     <hr style="width: 100%; height: 2px; margin: 10px auto 30px; background-color: white; border: none;">
 
     <h4 style="text-align: center; margin-bottom: 5px;">Barriers to Cervical Cancer Treatment</h4>
     <hr style="width: 49%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
-        This table highlights the main barriers patients face while attempting to receiving cervical cancer treatment
+        This table highlights the main barriers patients face while attempting to receive cervical cancer treatment
         following implementation of a new cervical cancer early detection and treatment program at the primary-level.
     </small></p> 
     <Lazy>
@@ -27,7 +27,7 @@
         <hr style="width: 28.5%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
         <p style="margin: 0; line-height: 1.2;"><small>
             This infographic depicts the step-by-step process for receiving treatment after testing positive for HPV. 
-            We developed the infographic to show partcipants what to expect during the process. 
+            We developed the infographic to show participants what to expect during the process. 
         </small></p> 
         <img alt="HPV followup card" src="VPH tarjeta.jpeg"/>
     </Lazy>
