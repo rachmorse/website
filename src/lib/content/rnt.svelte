@@ -15,8 +15,8 @@
     <h4 style="text-align: center; margin-bottom: 5px;">Results Summary</h4>
     <hr style="width: 22.5%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
-        This figure depicts the results of our research on worry and rumination and their relationship with subjective and 
-        objective cognitive and physical health.
+        This figure depicts the significant results of our research on worry and rumination and their 
+        relationship with subjective cognitive and physical health.
     </small></p> 
     <Lazy>
         <img alt="rnt findings" src="rnt findings.png"/>
@@ -26,7 +26,7 @@
         <p style="margin: 0; line-height: 1.2;"><small>
             These figures show the relationship between worry and rumination and subjective health.
             The top figures show that as worry and rumination increase perceived physical health decreases. 
-            The bottom figures show that as worry and rumination increase so do cognitive difficulties, such as poorer memory.       
+            The bottom figures show that as worry and rumination increase so do perceived cognitive difficulties, such as poorer memory.       
         </small></p> 
         <a href="rnt graphs.jpeg" target="_blank" rel="noreferrer">
             <img alt="rnt graphs" src="rnt graphs.jpeg"/>

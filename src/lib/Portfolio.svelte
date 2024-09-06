@@ -28,7 +28,7 @@
         {
             title: "Lifestyle Approaches to Dementia Prevention",
             desc: "We found that healthcare professionals believe lifestyle changes can help prevent dementia, but they need guidance and more resources to successfully run these programs.",
-            tags: ["dementia", "implementation science", "prevention"],
+            tags: ["dementia", "implementation science", "cognitive health"],
             long_desc: appletree
         },
         {

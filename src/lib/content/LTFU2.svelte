@@ -17,7 +17,7 @@
     <h4 style="text-align: center; margin-bottom: 5px;">Barriers to Cervical Cancer Treatment</h4>
     <hr style="width: 49%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
-        This table highlights the main barriers patients face while attempting to receive cervical cancer treatment
+        This table highlights what healthcare professionals see as the main barriers to receiving cervical cancer treatment 
         following implementation of a new cervical cancer early detection and treatment program at the primary-level.
     </small></p> 
     <Lazy>

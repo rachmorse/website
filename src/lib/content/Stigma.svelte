@@ -21,8 +21,9 @@
     <h4 style="text-align: center; margin-bottom: 5px;">The Developement of HPV</h4>
     <hr style="width: 33%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
-        This infographic highlights the prevalence of HPV, showing how common it is even though most women do not go on to 
-        develop cervical cancer. We created it to promote understanding that HPV is common and no one should feel shame for having it.
+        This infographic highlights the prevalence of HPV, showing that although most women will have an HPV infection in their lifetime, 
+        the majority of these women will not go on to develop cervical cancer. We made this infographic to promote understanding 
+        that HPV is common, and it is not shameful to have an HPV infection.
     </small></p>
     <Lazy>
         <img alt="stigma" src="stigma_img.png"/>

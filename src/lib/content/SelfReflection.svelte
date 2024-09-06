@@ -15,7 +15,7 @@
     <h4 style="text-align: center; margin-bottom: 5px;">Self-Reflection and Cognitive </h4>
     <hr style="width: 36.5%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
-        This figure depicts the results of our research on self-reflection and cognition.
+        This figure depicts the main results of our research on the relationship between self-reflection and cognition.
     </small></p> 
     <Lazy>
         <img alt="Self Reflection study results" src="selfreflection-summary.svg"/>
