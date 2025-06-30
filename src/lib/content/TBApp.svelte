@@ -2,7 +2,7 @@
     import Lazy from "svelte-lazy";
 </script>
 
-<div class="text-left dark:text-white">
+<div class="text-left dark:text-black">
     <p>Children with TB and their caregivers are aware of the importance of treatment, but TB treatment for children is
         often difficult, with drugs that have an unpleasant tastes and serious side effects. As a result, many children
         fail to complete their full treatment, despite their initial motivation, and face risk of developing drug
@@ -26,7 +26,7 @@
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-    <p><strong class="dark:text-white">Morse, R. M.</strong>, Myburgh, H., Reubi, D., […] Hoddinott, G. (2020).
+    <p><strong class="dark:text-black">Morse, R. M.</strong>, Myburgh, H., Reubi, D., […] Hoddinott, G. (2020).
         “Opportunities for Mobile App–Based Adherence Support for Children with Tuberculosis in South Africa.” JMIR
         MHealth and UHealth. <a class="text-primary-500 dark:text-primary-200" href="https://doi.org/10.2196/19154" rel="noreferrer"
                                 target="_blank">https://doi.org/10.2196/19154</a></p>

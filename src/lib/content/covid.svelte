@@ -1,7 +1,7 @@
 <script>
     import Lazy from "svelte-lazy";
 </script>
-<div class="text-left dark:text-white">
+<div class="text-left dark:text-black">
     <p>Almost half of all dementia cases can be prevented by addressing modifiable risk factors such as social 
         isolation and physical inactivity. However, during the COVID-19 pandemic, many older adults experienced 
         disruptions to their usual routines and were not able to continue their activities.</p>
@@ -25,7 +25,7 @@
 
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-    <p>Wright, A. M., Demnitz-King, H., Burton, A., <strong class="dark:text-white">Morse, R. M.</strong>, […]
+    <p>Wright, A. M., Demnitz-King, H., Burton, A., <strong class="dark:text-black">Morse, R. M.</strong>, […]
        Cooper, C. (2025). “Social, Digital and Community Capital Facilitated COVID-19 Pandemic Resilience
         in a Qualitative Survey of Older Adults With Mild Cognitive Concerns.” INQUIRY: The Journal of Health Care. <a
                 class="text-primary-500 dark:text-primary-200" href="https://doi.org/10.1177/00469580251332062" rel="noreferrer"

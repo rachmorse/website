@@ -1,7 +1,7 @@
 <script>
     import Lazy from "svelte-lazy"
 </script>
-<div class="text-left dark:text-white">
+<div class="text-left dark:text-black">
     <p>Cervical cancer is preventable but requires early detection and timely treatment, including ensuring all patients 
         receive the care they need. In the Amazonian region of Peru, 70% of patients referred to the hospital were not 
         receiving the care they needed. Our team implemented a new cervical cancer prevention program, and the hard-working 
@@ -33,7 +33,7 @@
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-    <p><strong class="dark:text-white">Morse, R. M.</strong>, Brown, J., Ríos López, E. J., […], Paz-Soldan, V. A., & 
+    <p><strong class="dark:text-black">Morse, R. M.</strong>, Brown, J., Ríos López, E. J., […], Paz-Soldan, V. A., & 
         the Proyecto Precancer Study Group. (2024) “Challenges associated with follow-up care after implementation of an HPV 
         screen-and-treat program with ablative therapy for cervical cancer prevention.” BMC Public Health.   <a class="text-primary-500 dark:text-primary-200"
                            href="http://doi.org/10.1186/s12889-024-19436-3" rel="noreferrer" target="_blank">http://doi.org/10.1186/s12889-024-19436-3</a>

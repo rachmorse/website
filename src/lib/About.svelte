@@ -13,21 +13,21 @@
         <h2>Predoctoral Research Fellow</h2>
         <div class="grid grid-cols-4 max-w-xs mx-auto grid-rows-1 grid-flow-row gap-4 text-center m-5">
 
-            <a class="shadow-lg forced-colors:block hover:forced-colors:block p-2 dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400   text-primary-500 hover:bg-primary-500 hover:text-white mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"
+            <a class="shadow-lg forced-colors:block hover:forced-colors:block p-2 dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400   text-primary-500 hover:bg-primary-500 hover:text-black mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"
                href="https://github.com/rachmorse">
                 <Github/>
             </a>
-            <a class=" shadow-lg dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400 forced-colors:block text-primary-500  p-2  hover:bg-primary-500 hover:text-white mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"
+            <a class=" shadow-lg dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400 forced-colors:block text-primary-500  p-2  hover:bg-primary-500 hover:text-black mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"
                href="https://www.linkedin.com/in/rachel-morse-a803a718b/">
                 <Linkedin/>
             </a>
 
-            <a class="shadow-lg forced-colors:block hover:forced-colors:block p-2 dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400   text-primary-500 hover:bg-primary-500 hover:text-white mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"
+            <a class="shadow-lg forced-colors:block hover:forced-colors:block p-2 dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400   text-primary-500 hover:bg-primary-500 hover:text-black mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"
                href="https://www.researchgate.net/profile/Rachel-Morse-3">
                 <Microscope/>
             </a>
 
-            <a class=" shadow-lg dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400 forced-colors:block text-primary-500  p-2  hover:bg-primary-500 hover:text-white mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"
+            <a class=" shadow-lg dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400 forced-colors:block text-primary-500  p-2  hover:bg-primary-500 hover:text-black mx-auto hover:shadow-md ease-in duration-100 text-left border-solid border-2 rounded-md border-primary-500"
                href="https://scholar.google.co.uk/citations?user=4y0-vQgAAAAJ&hl=en">
                 <GraduationCap/>
             </a>
@@ -41,7 +41,7 @@
             prevention in the UK. In my free time, I enjoy being outdoors and hiking in the mountains around
             Barcelona. </p>
         <div class="mx-auto h-auto min-h-full m-4">
-            <a class="email w-32 text-primary-500 dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400 forced-colors:block p-2 m-2 rounded-md shadow-lg appearance-none ease-in duration-100 hover:bg-primary-500  hover:text-white border-solid border-2 border-primary-500"
+            <a class="email w-32 text-primary-500 dark:text-primary-400 dark:hover:bg-primary-400 dark:border-primary-400 forced-colors:block p-2 m-2 rounded-md shadow-lg appearance-none ease-in duration-100 hover:bg-primary-500  hover:text-black border-solid border-2 border-primary-500"
                href="79757d78607b2e66797b6667715461763a717061" rel="nofollow, noindex">
                 Get in touch
             </a>

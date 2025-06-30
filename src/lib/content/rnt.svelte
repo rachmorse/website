@@ -1,7 +1,7 @@
 <script>
     import Lazy from "svelte-lazy"
 </script>
-<div class="text-left dark:text-white">
+<div class="text-left dark:text-black'">
     <p>While cognitive and physical health are often seen as separate, they are closely related, especially as we age. 
         Understanding what affects both can help in developing better interventions for healthy aging. Here we explored how 
         worry and rumination—persistent negative thoughts—affect the physical and cognitive health of older adults. </p>
@@ -40,7 +40,7 @@
     
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-    <p><strong class="dark:text-white">Morse, R. M.†</strong>, Koutsoubelis, F.†, Whitfield, T., […], Marchant, N. L., & for the Medit-Ageing Research Group (2024)
+    <p><strong class="dark:text-black'">Morse, R. M.†</strong>, Koutsoubelis, F.†, Whitfield, T., […], Marchant, N. L., & for the Medit-Ageing Research Group (2024)
         “Worry and ruminative brooding: associations with cognitive and physical health in older adults.” Frontiers in Psychology. <a class="text-primary-500 dark:text-primary-200"
                            href="https://doi.org/10.3389/fpsyg.2024.1332398" rel="noreferrer" target="_blank">https://doi.org/10.3389/fpsyg.2024.1332398</a>
     </p>

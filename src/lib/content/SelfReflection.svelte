@@ -1,7 +1,7 @@
 <script>
     import Lazy from "svelte-lazy";
 </script>
-<div class="text-left dark:text-white">
+<div class="text-left dark:text-black">
     <p>Dementia is a devastating disease that affects over 50 million people worldwide. However, up to one third of
         cases can be prevented by addressing modifiable risk factors, such as poor diet and lack of physical activity.
         Psychological factors that may increase dementia risk have received less attention. </p>
@@ -23,7 +23,7 @@
 
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-    <p>Demnitz-King, H., Gonneaud, J., Klimecki, O.M., […] <strong class="dark:text-white">Morse, R. M.</strong>, […]
+    <p>Demnitz-King, H., Gonneaud, J., Klimecki, O.M., […] <strong class="dark:text-black">Morse, R. M.</strong>, […]
         Marchant, N.L. & The Medit-Ageing Research Group (2022). “Self-reflection is Associated with Markers of
         Alzheimer’s Disease in Cognitively Intact Older Adults.” Neurology. <a
                 class="text-primary-500 dark:text-primary-200" href="https://doi.org/10.1212/WNL.0000000000200951" rel="noreferrer"

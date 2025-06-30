@@ -1,7 +1,7 @@
 <script>
     import Lazy from "svelte-lazy"
 </script>
-<div class="text-left dark:text-white">
+<div class="text-left dark:text-black">
     <p>In many cervical cancer prevention programs, patients with positive screening results are referred to the
         hospital for additional tests and treatment. However, in the Amazonian region of Peru, 70% of patients referred
         to the hospital were not receiving the care they needed. </p>
@@ -28,7 +28,7 @@
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-    <p><strong class="dark:text-white">Morse, R. M.</strong>, Jurczuk, M., Brown, J., […] Paz-Soldan, V.A., & the
+    <p><strong class="dark:text-black">Morse, R. M.</strong>, Jurczuk, M., Brown, J., […] Paz-Soldan, V.A., & the
         Proyecto Precancer Study Group. (2022) “‘Day or night, no matter what, I will go”: Women’s perspectives on challenges
         associated with receiving follow-up after abnormal cervical cancer screening results in Iquitos, Peru.” BMC
         Women’s Health. <a class="text-primary-500 dark:text-primary-200"

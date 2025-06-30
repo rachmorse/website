@@ -1,4 +1,5 @@
 const config = {
+  darkMode: false, // explicitly disable dark mode
   content: ["./src/**/*.{html,js,svelte,ts}"],
   theme: {
     extend: {

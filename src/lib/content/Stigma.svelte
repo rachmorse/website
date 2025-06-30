@@ -1,7 +1,7 @@
 <script>
     import Lazy from "svelte-lazy";
 </script>
-<div class="text-left dark:text-white">
+<div class="text-left dark:text-black">
     <p>HPV is a common sexually transmitted disease that can develop into cervical cancer. Most women will get an HPV
         infection in their lifetime that their bodies will be able to control. However, in some cases, women will need
         treatment to help prevent HPV from developing into cervical cancer. An HPV infection can come from any past
@@ -42,7 +42,7 @@
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-    <p><strong class="dark:text-white">Morse, R. M.†</strong>, Brown, J.†, Gage, J.C., […] Paz-Soldan, V.A., & the
+    <p><strong class="dark:text-black">Morse, R. M.†</strong>, Brown, J.†, Gage, J.C., […] Paz-Soldan, V.A., & the
         Proyecto Precancer Study Group. (2023) “‘Easy women get it’: pre-existing stigma associated with HPV and cervical
         cancer in a low-resource setting prior to implementation of an HPV screen-and-treat program.” BMC Public Health.
         <a class="text-primary-500 dark:text-primary-200" href="http://doi.org/10.1186/s12889-023-17324-w"

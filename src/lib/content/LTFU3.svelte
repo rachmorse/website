@@ -1,7 +1,7 @@
 <script>
     import Lazy from "svelte-lazy"
 </script>
-<div class="text-left dark:text-white">
+<div class="text-left dark:text-black">
     <p>In Iquitos, Peru—a city in the middle of the Amazon rainforest—our team introduced a new cervical cancer prevention program. 
         Although this program increased the number of women receiving treatment at local clinics for HPV—the primary cause of 
         cervical cancer—many who require hospital-based treatment still slip through the cracks and do not receive the care they 
@@ -27,7 +27,7 @@
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p>Blum, A. C., Tessema, R., Nussbaum, L., Hidalgo, C., Ríos López, E. J., Meza Sánchez, M., 
-        <strong class="dark:text-white">Morse, R. M.</strong>, […], Paz-Soldan, V. A. (2025) “‘The problem is not detection, 
+        <strong class="dark:text-black">Morse, R. M.</strong>, […], Paz-Soldan, V. A. (2025) “‘The problem is not detection, 
         it is treatment’: exploring why women needing pre-cervical cancer care are lost to follow-up at the hospital 
         in Iquitos, Peru.” BMC Health Services Research. <a class="text-primary-500 dark:text-primary-200"
                            href="https://doi.org/10.1186/s12913-025-12685-x" rel="noreferrer" target="_blank">https://doi.org/10.1186/s12913-025-12685-x</a>
