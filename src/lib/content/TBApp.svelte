@@ -22,7 +22,7 @@
         It shows how an app could provide educational features as well as behavioral features to help manage these challenges.
     </small></p>
     <Lazy>
-        <img alt="TB App Table" src="tb-table.svg"/>
+        <img alt="TB App Table" src="tb-table.svg" style="display: block; margin: 0 auto;" />
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">

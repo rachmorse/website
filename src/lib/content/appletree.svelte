@@ -25,7 +25,7 @@
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-    <p><strong class="dark:text-white">Morse, R. M.</strong>, Lang, I., Rapaport, P., […] & Cooper, C. “How might secondary dementia prevention programs 
+    <p><strong class="dark:text-white">Morse, R. M.</strong>, Lang, I., Rapaport, P., […] & Cooper, C. (2024) “How might secondary dementia prevention programs 
         work in practice: a pre-implementation study of the APPLE-Tree program.” BMC Geriatrics.  <a class="text-primary-500 dark:text-primary-200"
                            href="http://doi.org/10.1186/s12877-024-04762-3" rel="noreferrer" target="_blank">http://doi.org/10.1186/s12877-024-04762-3</a>
     </p>

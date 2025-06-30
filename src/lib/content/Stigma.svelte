@@ -43,7 +43,7 @@
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-white">Morse, R. M.†</strong>, Brown, J.†, Gage, J.C., […] Paz-Soldan, V.A., & the
-        Proyecto Precancer Study Group. “‘Easy women get it’: pre-existing stigma associated with HPV and cervical
+        Proyecto Precancer Study Group. (2023) “‘Easy women get it’: pre-existing stigma associated with HPV and cervical
         cancer in a low-resource setting prior to implementation of an HPV screen-and-treat program.” BMC Public Health.
         <a class="text-primary-500 dark:text-primary-200" href="http://doi.org/10.1186/s12889-023-17324-w"
            rel="noreferrer" target="_blank">http://doi.org/10.1186/s12889-023-17324-w</a></p>

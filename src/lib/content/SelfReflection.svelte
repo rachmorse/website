@@ -13,13 +13,14 @@
         <hr style="width: 100%; height: 2px; margin: 10px auto 30px; background-color: white; border: none;">
 
     <h4 style="text-align: center; margin-bottom: 5px;">Self-Reflection and Cognitive </h4>
-    <hr style="width: 36.5%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 30%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
         This figure depicts the main results of our research on the relationship between self-reflection and cognition.
     </small></p> 
     <Lazy>
-        <img alt="Self Reflection study results" src="selfreflection-summary.svg"/>
+        <img alt="Self Reflection study results" src="selfreflection-summary.svg" style="display: block; margin: 0 auto;" /> 
     </Lazy>
+
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p>Demnitz-King, H., Gonneaud, J., Klimecki, O.M., […] <strong class="dark:text-white">Morse, R. M.</strong>, […]
@@ -27,4 +28,10 @@
         Alzheimer’s Disease in Cognitively Intact Older Adults.” Neurology. <a
                 class="text-primary-500 dark:text-primary-200" href="https://doi.org/10.1212/WNL.0000000000200951" rel="noreferrer"
                 target="_blank">https://doi.org/10.1212/WNL.0000000000200951</a></p>
+
+    <h4 style="text-align: center; margin-bottom: 5px;">Free Version of the Paper</h4>
+    <hr style="width: 25%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <p>You can access a paywall-free version of our paper <a class="text-primary-500 dark:text-primary-200"
+        href="https://discovery.ucl.ac.uk/id/eprint/10153049/5/Demnitz-King_Artical%20File%20Revised%20Clean%20Copy.pdf" rel="noreferrer" target="_blank">here</a>. 
+        Open science is important; we self-archived a version of this paper to make this science accessible to everyone.</p>
 </div>
