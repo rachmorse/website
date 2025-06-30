@@ -9,11 +9,18 @@
     import Stigma from "./content/Stigma.svelte";
     import Ltfu2 from "./content/LTFU2.svelte";
     import Ltfu3 from "./content/LTFU3.svelte";
+    import covid from './content/covid.svelte';
     import rnt from './content/rnt.svelte';
     import appletree from './content/appletree.svelte';
 
 
     let projects = [
+        {
+            title: "COVID-19 and Dementia Risk",
+            desc: "Although older adults tried to maintain activities that protect against dementia during the COVID-19 pandemic, we found that they experienced reduced in-person contact, mental health challenges, and limited physical activity.",
+            tags: ["cognitive health", "dementia", "prevention"],
+            long_desc: covid
+        },
         {
             title: "Hospital-Level Barriers to Cervical Cancer Care",
             desc: "After launching our new cervical cancer prevention program, we managed to treat more women, but a complicated referral system and a lack of understanding about HPV prevented hospital-based follow-up care for many.",
