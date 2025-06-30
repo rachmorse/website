@@ -13,7 +13,7 @@
         <hr style="width: 100%; height: 2px; margin: 10px auto 30px; background-color: white; border: none;">
 
     <h4 style="text-align: center; margin-bottom: 5px;">Results Summary</h4>
-    <hr style="width: 22.5%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 18%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
         This figure depicts the significant results of our research on worry and rumination and their 
         relationship with subjective cognitive and physical health.
@@ -22,7 +22,7 @@
         <img alt="rnt findings" src="rnt findings.png"/>
 
         <h4 style="text-align: center; margin-bottom: 5px;">Worry and Rumination & Subjective Health</h4>
-        <hr style="width: 56%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+        <hr style="width: 41%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
         <p style="margin: 0; line-height: 1.2;"><small>
             These figures show the relationship between worry and rumination and subjective health.
             The top figures show that as worry and rumination increase perceived physical health decreases. 
@@ -34,12 +34,12 @@
     </Lazy>
     
     <h4 style="text-align: center; margin-bottom: 5px;">Analysis Code</h4>
-    <hr style="width: 18%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 16%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p>All of the analysis code for this project is available <a class="text-primary-500 dark:text-primary-200"
         href="https://github.com/rachmorse/Worry-Rumination-and-Older-Adult-Health" rel="noreferrer" target="_blank">here</a> for openess and transparency.</p>
     
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
-    <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-black'">Morse, R. M.†</strong>, Koutsoubelis, F.†, Whitfield, T., […], Marchant, N. L., & for the Medit-Ageing Research Group (2024)
         “Worry and ruminative brooding: associations with cognitive and physical health in older adults.” Frontiers in Psychology. <a class="text-primary-500 dark:text-primary-200"
                            href="https://doi.org/10.3389/fpsyg.2024.1332398" rel="noreferrer" target="_blank">https://doi.org/10.3389/fpsyg.2024.1332398</a>

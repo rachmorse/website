@@ -15,7 +15,7 @@
     <hr style="width: 100%; height: 2px; margin: 10px auto 30px; background-color: white; border: none;">
 
     <h4 style="text-align: center; margin-bottom: 5px;">Barriers to Cervical Cancer Treatment</h4>
-    <hr style="width: 49%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 36%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
         This table highlights the main barriers patients face while attempting to receive cervical cancer treatment 
         at the hospital-level.
@@ -23,11 +23,11 @@
     <Lazy>
         <img alt="followup table" src="ltfu1 table.png"/>
     <h4 style="text-align: center; margin-bottom: 5px;">Participant Quote</h4>
-    <hr style="width: 23%; height: 2px; margin: 5px auto 0px; background-color: lightgrey; border: none;">
+    <hr style="width: 18%; height: 2px; margin: 5px auto 0px; background-color: lightgrey; border: none;">
         <img alt="followup speech" src="followup-people.svg" style="display: block; margin: 0 auto;" />
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
-    <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-black">Morse, R. M.</strong>, Jurczuk, M., Brown, J., […] Paz-Soldan, V.A., & the
         Proyecto Precancer Study Group. (2022) “‘Day or night, no matter what, I will go”: Women’s perspectives on challenges
         associated with receiving follow-up after abnormal cervical cancer screening results in Iquitos, Peru.” BMC

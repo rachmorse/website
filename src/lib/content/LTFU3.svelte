@@ -14,7 +14,7 @@
         and the introduction of patient navigators who can offer clear information and support. </p>
     <hr style="width: 100%; height: 2px; margin: 10px auto 30px; background-color: white; border: none;">
 
-    <h4 style="text-align: center; margin-bottom: 5px;">Barriers Treatment and Proposed Solutions</h4>
+    <h4 style="text-align: center; margin-bottom: 5px;">Treatment Barriers and Proposed Solutions</h4>
     <hr style="width: 40%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
         This graphic summarizes the main barriers to receiving cervical cancer treatment at the hospital-level after we 
@@ -25,7 +25,7 @@
         <img alt="ltfu3 figure" src="ltfu3 figure.png"/>
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
-    <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p>Blum, A. C., Tessema, R., Nussbaum, L., Hidalgo, C., Ríos López, E. J., Meza Sánchez, M., 
         <strong class="dark:text-black">Morse, R. M.</strong>, […], Paz-Soldan, V. A. (2025) “‘The problem is not detection, 
         it is treatment’: exploring why women needing pre-cervical cancer care are lost to follow-up at the hospital 

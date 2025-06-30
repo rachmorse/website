@@ -14,8 +14,8 @@
 
         <hr style="width: 100%; height: 2px; margin: 10px auto 30px; background-color: white; border: none;">
 
-    <h4 style="text-align: center; margin-bottom: px;">COVID-19 and Dementia Risk Factors</h4>
-    <hr style="width: 35%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <h4 style="text-align: center; margin-bottom: px;">Results Summary</h4>
+    <hr style="width: 20%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
         This figure shows the main results of our research on how the COVID pandemic impacted the lives of older adults with memory concerns.
     </small></p> 
@@ -24,7 +24,7 @@
     </Lazy>
 
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
-    <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p>Wright, A. M., Demnitz-King, H., Burton, A., <strong class="dark:text-black">Morse, R. M.</strong>, […]
        Cooper, C. (2025). “Social, Digital and Community Capital Facilitated COVID-19 Pandemic Resilience
         in a Qualitative Survey of Older Adults With Mild Cognitive Concerns.” INQUIRY: The Journal of Health Care. <a

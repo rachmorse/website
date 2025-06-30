@@ -6,11 +6,11 @@ const config = {
       colors: {
         primary: {
           100: "#F0A202",
-          200: "#F18805",
+          200: "#F18805", // Border color
           300: "#D95D39",
-          400: "#a64c7c",
-          500: "#843B62",
-          600: "#5d2a45"
+          400: "#a64c7c", // Hover border
+          500: "#843B62", // Short desc / tags 
+          600: "#5d2a45" // Titles 
         }
       },
     },

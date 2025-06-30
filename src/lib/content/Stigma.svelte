@@ -19,7 +19,7 @@
         <hr style="width: 100%; height: 2px; margin: 10px auto 30px; background-color: white; border: none;">
 
     <h4 style="text-align: center; margin-bottom: 5px;">The Developement of HPV</h4>
-    <hr style="width: 33%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 26%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
         This infographic highlights the prevalence of HPV, showing that although most women will have an HPV infection in their lifetime, 
         the majority of these women will not go on to develop cervical cancer. We made this infographic to promote understanding 
@@ -29,11 +29,11 @@
         <img alt="stigma" src="stigma_img.png"/>
 
         <h4 style="text-align: center; margin-bottom: 5px;">Participant Quote</h4>
-        <hr style="width: 23%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-        <img alt="thought" src="stigma-thought.svg"/>
+        <hr style="width: 17%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+        <img alt="thought" src="stigma-thought.svg" style="display: block; margin: 0 auto;" />
         
         <h4 style="text-align: center; margin-bottom: 5px;">HPV and Blame</h4>
-        <hr style="width: 20%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+        <hr style="width: 16%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
         <p style="margin: 0; line-height: 1.2;"><small>
             This infographic shows that anyone can get HPV, no matter their sexual practices. 
             We created it to encourage focusing on treatment rather than how someone got HPV.
@@ -41,7 +41,7 @@
         <img alt="stigma-chat" src="stigma-chat.jpg"/>
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
-    <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-black">Morse, R. M.†</strong>, Brown, J.†, Gage, J.C., […] Paz-Soldan, V.A., & the
         Proyecto Precancer Study Group. (2023) “‘Easy women get it’: pre-existing stigma associated with HPV and cervical
         cancer in a low-resource setting prior to implementation of an HPV screen-and-treat program.” BMC Public Health.

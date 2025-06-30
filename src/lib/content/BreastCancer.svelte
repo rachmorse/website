@@ -13,11 +13,11 @@
     
     <Lazy>
     <h4 style="text-align: center; margin-top: 40px; margin-bottom: 5px;">Participant Quote</h4>
-    <hr style="width: 23%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 19%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
         <img alt="breast cancer perspective" class="mx-auto" src="breast cancer quote.png"/>
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
-    <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p>Fields, B. C., <strong class="dark:text-black">Morse, R. M.</strong>, Ortega, E., […] Paz-Soldan, V.A. (2023) “’I
         wanted information’: Navigating Breast Cancer and Its Treatment in Lima, Peru.” BMC Women’s Health. <a
                 class="text-primary-500 dark:text-primary-200" href="https://doi.org/10.1186/s12905-023-02321-3"

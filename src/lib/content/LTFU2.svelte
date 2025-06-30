@@ -15,7 +15,7 @@
     <hr style="width: 100%; height: 2px; margin: 10px auto 30px; background-color: white; border: none;">
 
     <h4 style="text-align: center; margin-bottom: 5px;">Barriers to Cervical Cancer Treatment</h4>
-    <hr style="width: 49%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 36%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
         This table highlights what healthcare professionals see as the main barriers to receiving cervical cancer treatment 
         following implementation of a new cervical cancer early detection and treatment program at the primary-level.
@@ -24,7 +24,7 @@
         <img alt="ltfu table" src="ltfu2 table.jpeg"/>
         
         <h4 style="text-align: center; margin-bottom: 5px;">The Follow-up Process</h4>
-        <hr style="width: 28.5%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+        <hr style="width: 22%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
         <p style="margin: 0; line-height: 1.2;"><small>
             This infographic depicts the step-by-step process for receiving treatment after testing positive for HPV. 
             We developed the infographic to show participants what to expect during the process. 
@@ -32,7 +32,7 @@
         <img alt="HPV followup card" src="VPH tarjeta.jpeg"/>
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
-    <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-black">Morse, R. M.</strong>, Brown, J., Ríos López, E. J., […], Paz-Soldan, V. A., & 
         the Proyecto Precancer Study Group. (2024) “Challenges associated with follow-up care after implementation of an HPV 
         screen-and-treat program with ablative therapy for cervical cancer prevention.” BMC Public Health.   <a class="text-primary-500 dark:text-primary-200"

@@ -1,0 +1,62 @@
+/* Write your global styles here, in PostCSS syntax */
+
+@font-face {
+font-family: 'Noto Serif';
+src: url(../NotoSerif-VariableFont_wdth,wght.FontimizeSubset.woff2);
+}
+
+@tailwind base;
+
+:root {
+font-family: 'Noto Serif', serif;
+font-size: 16px;
+line-height: 24px;
+font-weight: 400;
+
+/* Force light mode only */
+color-scheme: light;
+
+/* Set permanent dark text & light background */
+color: #213547;
+background-color: #ffffff;
+
+font-synthesis: none;
+text-rendering: optimizeLegibility;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+-webkit-text-size-adjust: 100%;
+}
+
+body {
+margin: 4; /* If this is meant to be a valid value, use 4px or 4rem, etc. /
+display: flex;
+place-items: center;
+min-width: 320px;
+min-height: 100vh;
+background-color: #ffffff; / Reinforce light BG on body */
+}
+
+h1 {
+font-size: 3.2em;
+line-height: 1.1;
+}
+
+#app {
+margin: 0 auto;
+max-width: 1280px;
+text-align: center;
+}
+
+/* Remove the media query and consolidate any color rules below */
+a:hover {
+color: #747bff;
+}
+
+/* Example button style */
+button {
+background-color: #f9f9f9;
+color: #213547;
+}
+
+@tailwind components;
+@tailwind utilities;
