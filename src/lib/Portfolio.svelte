@@ -8,11 +8,18 @@
     import FollowUp from "./content/FollowUp.svelte";
     import Stigma from "./content/Stigma.svelte";
     import Ltfu2 from "./content/LTFU2.svelte";
+    import Ltfu3 from "./content/LTFU3.svelte";
     import rnt from './content/rnt.svelte';
     import appletree from './content/appletree.svelte';
 
 
     let projects = [
+        {
+            title: "Hospital-Level Barriers to Cervical Cancer Care",
+            desc: "After launching our new cervical cancer prevention program, we managed to treat more women, but a complicated referral system and a lack of understanding about HPV prevented hospital-based follow-up care for many.",
+            tags: ["global health", "cervical cancer", "prevention"],
+            long_desc: Ltfu3
+        },
         {
             title: "Primary-Level Loss to Follow up in Cervical Cancer",
             desc: "Our new cervical cancer program reduced barriers to care, but incomplete registration systems, along with barriers like lack of understanding about HPV, still prevented patients from accessing treatment.",
