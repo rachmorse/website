@@ -24,7 +24,11 @@
         <img alt="followup table" src="ltfu1 table.png"/>
     <h4 style="text-align: center; margin-bottom: 5px;">Participant Quote</h4>
     <hr style="width: 18%; height: 2px; margin: 5px auto 0px; background-color: lightgrey; border: none;">
-        <img alt="followup speech" src="followup-people.svg" style="display: block; margin: 0 auto;" />
+    <p style="margin: 0; line-height: 1.2;"><small>
+        In this quote, a patient explains how strikes prevented her from seeing a doctor in time, even though her 
+        referral papers — which were about to expire — allowed her to visit the hospital.
+    </small></p> 
+    <img alt="followup speech" src="followup-people.svg" style="display: block; margin: 0 auto;" />
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">

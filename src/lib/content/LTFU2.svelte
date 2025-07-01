@@ -8,7 +8,7 @@
         staff in this region were able to reduce the rate of patients who do not receive follow up care to 30%. Still, it 
         is important that all patients receive appropriate care, and so, in this study, we explored why these patients, 
         did not receive care after we implemented the new cervical cancer prevention program. </p>
-    <p>We found an incomplete patient monitoring system, which made it challenging to for staff to deliver results. 
+    <p>We found an incomplete patient monitoring system, which made it challenging for staff to deliver results. 
         Patients wanted treatment but faced a lack of understanding about HPV, fear of treatment, and work-related barriers. 
         We encourage healthcare systems to ensure they have complete registry systems for patient follow-up, and to 
         also use patient navigators who can help in providing better educational materials and support to patients. </p>

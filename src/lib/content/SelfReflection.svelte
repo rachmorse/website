@@ -12,7 +12,7 @@
 
         <hr style="width: 100%; height: 2px; margin: 10px auto 30px; background-color: white; border: none;">
 
-    <h4 style="text-align: center; margin-bottom: 5px;">Self-Reflection and Cognitive </h4>
+    <h4 style="text-align: center; margin-bottom: 5px;">Self-Reflection and Cognition </h4>
     <hr style="width: 30%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
         This figure depicts the main results of our research on the relationship between self-reflection and cognition.
@@ -33,5 +33,5 @@
     <hr style="width: 25%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p>You can access a paywall-free version of our paper <a class="text-primary-500 dark:text-primary-200"
         href="https://discovery.ucl.ac.uk/id/eprint/10153049/5/Demnitz-King_Artical%20File%20Revised%20Clean%20Copy.pdf" rel="noreferrer" target="_blank">here</a>. 
-        Open science is important; we self-archived a version of this paper to make this science accessible to everyone.</p>
+        Open science is important; we self-archived a version of this paper to make this research available to everyone.</p>
 </div>

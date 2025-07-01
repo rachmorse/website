@@ -14,7 +14,11 @@
     <Lazy>
     <h4 style="text-align: center; margin-top: 40px; margin-bottom: 5px;">Participant Quote</h4>
     <hr style="width: 19%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-        <img alt="breast cancer perspective" class="mx-auto" src="breast cancer quote.png"/>
+    <p style="margin: 0; line-height: 1.2;"><small>
+        In this quote, a participant shares her desire for more empathetic, clear communication
+        from healthcare professionals.
+    </small></p> 
+    <img alt="breast cancer perspective" class="mx-auto" src="breast cancer quote.png"/>
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">

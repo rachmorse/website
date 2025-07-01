@@ -36,7 +36,7 @@
     <h4 style="text-align: center; margin-bottom: 5px;">Analysis Code</h4>
     <hr style="width: 16%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p>All of the analysis code for this project is available <a class="text-primary-500 dark:text-primary-200"
-        href="https://github.com/rachmorse/Worry-Rumination-and-Older-Adult-Health" rel="noreferrer" target="_blank">here</a> for openess and transparency.</p>
+        href="https://github.com/rachmorse/Worry-Rumination-and-Older-Adult-Health" rel="noreferrer" target="_blank">here</a> for openness and transparency.</p>
     
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">

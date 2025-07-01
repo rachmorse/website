@@ -14,11 +14,11 @@
         screened for HPV. </p>
     <p>We propose that cervical cancer prevention programs address stigma throughout the healthcare system and, instead
         of focusing on associations between HPV and sexual behaviors, provide comprehensive information about HPV and
-        offer screening to all eligible women, regardless of sexual history.</p>
+        offer screening to all eligible women, regardless of their sexual history.</p>
 
         <hr style="width: 100%; height: 2px; margin: 10px auto 30px; background-color: white; border: none;">
 
-    <h4 style="text-align: center; margin-bottom: 5px;">The Developement of HPV</h4>
+    <h4 style="text-align: center; margin-bottom: 5px;">The Development of HPV</h4>
     <hr style="width: 26%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
         This infographic highlights the prevalence of HPV, showing that although most women will have an HPV infection in their lifetime, 
@@ -30,6 +30,9 @@
 
         <h4 style="text-align: center; margin-bottom: 5px;">Participant Quote</h4>
         <hr style="width: 17%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+        <p style="margin: 0; line-height: 1.2;"><small>
+            In this quote, a healthcare provider describes encountering stigma around HPV testing.
+        </small></p>
         <img alt="thought" src="stigma-thought.svg" style="display: block; margin: 0 auto;" />
         
         <h4 style="text-align: center; margin-bottom: 5px;">HPV and Blame</h4>

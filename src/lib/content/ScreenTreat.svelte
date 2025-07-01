@@ -5,7 +5,7 @@
     <p>An HPV based screen-and-treat approach with ablative therapy can prevent cervical cancer. Patients who test
         positive for HPV, the cause of cervical cancer, can receive ablative therapy treatment at a clinic on the same
         day. The WHO recommends this approach, but ablative therapy is new and, though it is safe, the experience of
-        patients receive this treatment is not well understood. </p>
+        patients who receive this treatment is not well understood. </p>
     <p>In this study, we aimed to understand whether patients found ablative therapy treatment acceptable and feasible.
         We found that, although patients experienced minor side effects, they experienced satisfaction and relief, and
         wanted this treatment to be available at more clinics.</p>
@@ -16,7 +16,7 @@
     <hr style="width: 38%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
         This infographic depicts the step-by-step process for receiving ablative therapy for HPV treatment. 
-        We developed the infographic to show partcipants what to expect during the process. 
+        We developed the infographic to show participants what to expect during the process. 
     </small></p> 
     <Lazy>
         <a href="screen-treat.pdf" target="_blank" rel="noreferrer">
@@ -25,6 +25,10 @@
         
     <h4 style="text-align: center; margin-bottom: 5px;">Participant Quote</h4>
     <hr style="width: 23%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <p style="margin: 0; line-height: 1.2;"><small>
+        In this quote, a participant describes how she would like ablative therapy treatment to be 
+        made available to more women.
+    </small></p> 
         <img alt="screen and treat thought" src="tvtta quote.png"/>
     </Lazy>
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
