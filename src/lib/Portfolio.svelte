@@ -76,9 +76,9 @@
             long_desc: SelfReflection
         },
         {
-            title: "A Mobile App for Child TB Treatment",
+            title: "A Mobile App for Child Tuberculosis Treatment",
             tags: ["global health", "tuberculosis", "mobile technology"],
-            desc: "Our research proposes using a mobile app to help children in South Africa complete their TB treatment and have a better experience with it.",
+            desc: "Our research proposes using a mobile app to help children in South Africa complete their tuberculosis treatment and have a better experience with it.",
             long_desc: TBApp
         }
     ]

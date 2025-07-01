@@ -3,7 +3,7 @@
 </script>
 
 <div class="text-left dark:text-black">
-    <p>Children with TB and their caregivers are aware of the importance of treatment, but TB treatment for children is
+    <p>Children with tuberculosis (TB) and their caregivers are aware of the importance of treatment, but TB treatment for children is
         often difficult, with drugs that have an unpleasant tastes and serious side effects. As a result, many children
         fail to complete their full treatment, despite their initial motivation, and face risk of developing drug
         resistant TB or serious health complications.</p>
