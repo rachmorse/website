@@ -57,7 +57,7 @@
                 {#if active_grid == index}
                     <div
                         class="mt-3 sm:hidden rounded-2xl shadow-md border-2 border-primary-200 p-8 w-full"
-                        transition:slide={{ ...options, x: -150 }}
+                        transition:slide={options}
                     >
                         <article class="prose m-auto">
                             <h1 class="text-primary-300">{title}</h1>
@@ -72,7 +72,7 @@
                     <div
                         class="mt-3 hidden sm:inline p-12 shadow-md row-start-{Math.floor(index / 2) + 2}
                             rounded-2xl border-2 border-primary-200 w-full sm:col-span-2"
-                        transition:slide={{ ...options, x: -150 }}
+                        transition:slide={options}
                     >
                         <article class="prose m-auto">
                             <h1 class="text-black">{content[active_grid].title}</h1>
