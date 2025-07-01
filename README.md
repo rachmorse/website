@@ -1,5 +1,4 @@
 # Rachel Morse's Website
 
-This is the repository for my personal portfolio website. It was written with Svelte. 
-
-It is based on [this website](https://github.com/dchirst/website) written by Dan Hirst.
+This is the repository for my personal portfolio site, built with Svelte. It shows my research, publications, and related work. 
+The project was originally inspired by Dan Hirst's [website](https://github.com/dchirst/website) and adapted to fit my own design and content needs. 
