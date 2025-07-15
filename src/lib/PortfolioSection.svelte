@@ -22,6 +22,17 @@
             .querySelector(`[data-tags*="${active_tag}"]`)   // whole-word match
             ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
+    
+    afterUpdate(async () => {
+        if (active_grid === -1) return;      // no card open
+        await tick();                        // new markup is in the DOM
+
+        // wait for the 150 ms slide to finish, then scroll
+        setTimeout(() => {
+            document.getElementById(`grid-${active_grid}`)
+                ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 160);  // 150 ms + tiny buffer
+    });
 
     // This function is used to close the an open project card when clicking outside of it.
     function clickOutside(node) {
@@ -44,7 +55,7 @@
 <div class="mb-5">
     <div class="grid gap-4 p-4 sm:grid-cols-2 items-stretch h-full justify-center" use:clickOutside>   
             {#each content as { title, desc, link, tags, long_desc }, index}
-            <div class="col-span-1 w-full h-full flex flex-col sm:flex-row" data-tags={tags.join(' ')}>
+            <div id={"grid-" + index} class="col-span-1 w-full h-full flex flex-col sm:flex-row" data-tags={tags.join(' ')}>
                 <Project
                     link="{link}"
                     desc="{desc}"
