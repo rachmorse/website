@@ -26,14 +26,15 @@
     });
     
     afterUpdate(async () => {
-        if (active_grid === -1) return;      // no card open
-        await tick();                        // new markup is in the DOM
+        if (active_grid === -1) return;     // no card open
+        await tick();                       // DOM has the new dropdown
 
-        // wait for the 150 ms slide to finish, then scroll
+        // wait until the 150-ms slide up is finished, then jump once
         setTimeout(() => {
-            document.getElementById(`grid-${active_grid}`)
-                ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }, 160);  // 150 ms + tiny buffer
+            document
+            .getElementById(`grid-${active_grid}`)
+            ?.scrollIntoView({ behavior: 'auto', block: 'start' });  //  👈 instant
+        }, 160);      // 150 ms + small buffer
     });
 
     // This function is used to close the an open project card when clicking outside of it.
