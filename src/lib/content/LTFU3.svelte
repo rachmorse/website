@@ -21,9 +21,9 @@
         began using the new cervical cancer prevention program. It also highlights the proposed solutions to address 
         these barriers.
     </small></p> 
-    <Lazy>
-        <img alt="ltfu3 figure" src="ltfu3 figure.png"/>
-    </Lazy>
+
+    <img src="ltfu3 figure.png" alt="ltfu3 figure" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p>Blum, A. C., Tessema, R., Nussbaum, L., Hidalgo, C., Ríos López, E. J., Meza Sánchez, M., 

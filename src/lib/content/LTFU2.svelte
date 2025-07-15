@@ -20,17 +20,18 @@
         This table highlights what healthcare professionals see as the main barriers to receiving cervical cancer treatment 
         following implementation of a new cervical cancer early detection and treatment program at the primary-level.
     </small></p> 
-    <Lazy>
-        <img alt="ltfu table" src="ltfu2 table.jpeg"/>
-        
-        <h4 style="text-align: center; margin-bottom: 5px;">The Follow-up Process</h4>
-        <hr style="width: 22%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-        <p style="margin: 0; line-height: 1.2;"><small>
-            This infographic depicts the step-by-step process for receiving treatment after testing positive for HPV. 
-            We developed the infographic to show participants what to expect during the process. 
-        </small></p> 
-        <img alt="HPV followup card" src="VPH tarjeta.jpeg"/>
-    </Lazy>
+
+    <img src="ltfu2 table.jpeg" alt="ltfu table" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+
+    <h4 style="text-align: center; margin-bottom: 5px;">The Follow-up Process</h4>
+    <hr style="width: 22%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <p style="margin: 0; line-height: 1.2;"><small>
+        This infographic depicts the step-by-step process for receiving treatment after testing positive for HPV. 
+        We developed the infographic to show participants what to expect during the process. 
+    </small></p> 
+
+    <img src="VPH tarjeta.jpeg" alt="HPV followup card" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-black">Morse, R. M.</strong>, Brown, J., Ríos López, E. J., […], Paz-Soldan, V. A., & 

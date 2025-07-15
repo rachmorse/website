@@ -18,21 +18,21 @@
         This figure depicts the significant results of our research on worry and rumination and their 
         relationship with subjective cognitive and physical health.
     </small></p> 
-    <Lazy>
-        <img alt="rnt findings" src="rnt findings.png"/>
 
-        <h4 style="text-align: center; margin-bottom: 5px;">Worry and Rumination & Subjective Health</h4>
-        <hr style="width: 41%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-        <p style="margin: 0; line-height: 1.2;"><small>
-            These figures show the relationship between worry and rumination and subjective health.
-            The top figures show that as worry and rumination increase perceived physical health decreases. 
-            The bottom figures show that as worry and rumination increase so do perceived cognitive difficulties, such as poorer memory.       
-        </small></p> 
-        <a href="rnt graphs.jpeg" target="_blank" rel="noreferrer">
-            <img alt="rnt graphs" src="rnt graphs.jpeg"/>
-        </a>
-    </Lazy>
-    
+    <img src="rnt findings.png" alt="rnt findings" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+
+    <h4 style="text-align: center; margin-bottom: 5px;">Worry and Rumination & Subjective Health</h4>
+    <hr style="width: 41%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <p style="margin: 0; line-height: 1.2;"><small>
+        These figures show the relationship between worry and rumination and subjective health.
+        The top figures show that as worry and rumination increase perceived physical health decreases. 
+        The bottom figures show that as worry and rumination increase so do perceived cognitive difficulties, such as poorer memory.       
+    </small></p> 
+    <a href="rnt graphs.jpeg" target="_blank" rel="noreferrer">
+
+    <img src="rnt graphs.jpeg" alt="rnt graphs" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+    </a>
+
     <h4 style="text-align: center; margin-bottom: 5px;">Analysis Code</h4>
     <hr style="width: 16%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p>All of the analysis code for this project is available <a class="text-primary-500 dark:text-primary-200"

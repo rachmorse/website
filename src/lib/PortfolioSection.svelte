@@ -16,7 +16,9 @@
     // This function means that when someone clicks on a tag, it will scroll to the first project that has that tag.
     afterUpdate(async () => {
         if (!active_tag) return;
-        await tick();   // wait until the new card is in the DOM
+        if (active_grid !== -1)                     // a card is still open
+            await new Promise(r => setTimeout(r, options.duration + 10));
+        await tick();                               // now the DOM is stable
 
         document
             .querySelector(`[data-tags*="${active_tag}"]`)   // whole-word match

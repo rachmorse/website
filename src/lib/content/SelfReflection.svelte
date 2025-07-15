@@ -17,9 +17,7 @@
     <p style="margin: 0; line-height: 1.2;"><small>
         This figure depicts the main results of our research on the relationship between self-reflection and cognition.
     </small></p> 
-    <Lazy>
-        <img alt="Self Reflection study results" src="selfreflection-summary.svg" style="display: block; margin: 0 auto;" /> 
-    </Lazy>
+    <img src="selfreflection-summary.svg" alt="Self-Reflection results" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
 
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">

@@ -25,24 +25,24 @@
         the majority of these women will not go on to develop cervical cancer. We made this infographic to promote understanding 
         that HPV is common, and it is not shameful to have an HPV infection.
     </small></p>
-    <Lazy>
-        <img alt="stigma" src="stigma_img.png"/>
 
-        <h4 style="text-align: center; margin-bottom: 5px;">Participant Quote</h4>
-        <hr style="width: 17%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-        <p style="margin: 0; line-height: 1.2;"><small>
-            In this quote, a healthcare provider describes encountering stigma around HPV testing.
-        </small></p>
-        <img alt="thought" src="stigma-thought.svg" style="display: block; margin: 0 auto;" />
-        
-        <h4 style="text-align: center; margin-bottom: 5px;">HPV and Blame</h4>
-        <hr style="width: 16%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
-        <p style="margin: 0; line-height: 1.2;"><small>
-            This infographic shows that anyone can get HPV, no matter their sexual practices. 
-            We created it to encourage focusing on treatment rather than how someone got HPV.
-        </small></p>
-        <img alt="stigma-chat" src="stigma-chat.jpg"/>
-    </Lazy>
+    <img src="stigma_img.png" alt="stigma" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+
+    <h4 style="text-align: center; margin-bottom: 5px;">Participant Quote</h4>
+    <hr style="width: 17%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <p style="margin: 0; line-height: 1.2;"><small>
+        In this quote, a healthcare provider describes encountering stigma around HPV testing.
+    </small></p>
+    <img src="stigma-thought.svg" alt="thought" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+
+    <h4 style="text-align: center; margin-bottom: 5px;">HPV and Blame</h4>
+    <hr style="width: 16%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
+    <p style="margin: 0; line-height: 1.2;"><small>
+        This infographic shows that anyone can get HPV, no matter their sexual practices. 
+        We created it to encourage focusing on treatment rather than how someone got HPV.
+    </small></p>
+    <img src="stigma-chat.jpg" alt="stigma-chat" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-black">Morse, R. M.†</strong>, Brown, J.†, Gage, J.C., […] Paz-Soldan, V.A., & the

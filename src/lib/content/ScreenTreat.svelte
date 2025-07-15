@@ -18,9 +18,9 @@
         This infographic depicts the step-by-step process for receiving ablative therapy for HPV treatment. 
         We developed the infographic to show participants what to expect during the process. 
     </small></p> 
-    <Lazy>
         <a href="screen-treat.pdf" target="_blank" rel="noreferrer">
-            <img alt="screen and treat" src="screen-treat.jpg"/>
+            <img src="screen-treat.jpg" alt="screen and treat" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+
         </a>
         
     <h4 style="text-align: center; margin-bottom: 5px;">Participant Quote</h4>
@@ -29,8 +29,8 @@
         In this quote, a participant describes how she would like ablative therapy treatment to be 
         made available to more women.
     </small></p> 
-        <img alt="screen and treat thought" src="tvtta quote.png"/>
-    </Lazy>
+        <img src="tvtta quote.png" alt="screen and treat thought" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 14%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-black">Morse, R. M.</strong>, Brown, J., Nobel, H. E., […] Paz-Soldan, V.A., & the

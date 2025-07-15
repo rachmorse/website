@@ -11,15 +11,14 @@
         We suggest that breast cancer programs provide more informational support to help women cope with breast cancer
         treatment.</p>
     
-    <Lazy>
     <h4 style="text-align: center; margin-top: 40px; margin-bottom: 5px;">Participant Quote</h4>
     <hr style="width: 19%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
         In this quote, a participant shares her desire for more empathetic, clear communication
         from healthcare professionals.
     </small></p> 
-    <img alt="breast cancer perspective" class="mx-auto" src="breast cancer quote.png"/>
-    </Lazy>
+    
+    <img src="breast cancer quote.png" alt="breast cancer perspective" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p>Fields, B. C., <strong class="dark:text-black">Morse, R. M.</strong>, Ortega, E., […] Paz-Soldan, V.A. (2023) “’I

@@ -20,22 +20,22 @@
         This table highlights the main barriers patients face while attempting to receive cervical cancer treatment 
         at the hospital-level.
     </small></p> 
-    <Lazy>
-        <img alt="followup table" src="ltfu1 table.png"/>
+    <img src="ltfu1 table.png" alt="followup table" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+
     <h4 style="text-align: center; margin-bottom: 5px;">Participant Quote</h4>
     <hr style="width: 18%; height: 2px; margin: 5px auto 0px; background-color: lightgrey; border: none;">
     <p style="margin: 0; line-height: 1.2;"><small>
         In this quote, a patient explains how strikes prevented her from seeing a doctor in time, even though her 
         referral papers — which were about to expire — allowed her to visit the hospital.
     </small></p> 
-    <img alt="followup speech" src="followup-people.svg" style="display: block; margin: 0 auto;" />
-    </Lazy>
+    <img src="followup-people.svg" alt="followup speech" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-black">Morse, R. M.</strong>, Jurczuk, M., Brown, J., […] Paz-Soldan, V.A., & the
         Proyecto Precancer Study Group. (2022) “‘Day or night, no matter what, I will go”: Women’s perspectives on challenges
         associated with receiving follow-up after abnormal cervical cancer screening results in Iquitos, Peru.” BMC
         Women’s Health. <a class="text-primary-500 dark:text-primary-200"
-                           href="http://doi.org/10.1186/s12905-023-02414-z" rel="noreferrer" target="_blank">10.1186/s12905-023-02414-z</a>
+                           href="http://doi.org/10.1186/s12905-023-02414-z" rel="noreferrer" target="_blank">http://doi.org/10.1186/s12905-023-02414-z</a>
     </p>
 </div>

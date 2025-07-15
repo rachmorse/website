@@ -19,9 +19,7 @@
     <p style="margin: 0; line-height: 1.2;"><small>
         This figure shows the main results of our research on how the COVID pandemic impacted the lives of older adults with memory concerns.
     </small></p> 
-    <Lazy>
-        <img alt="COVID study results" src="covid.png" style="display: block; margin: 0 auto; margin-bottom: -18px;" />
-    </Lazy>
+    <img src="covid.png" alt="COVID study results" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
 
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">

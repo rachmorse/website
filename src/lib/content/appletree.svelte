@@ -20,9 +20,8 @@
     <p style="margin: 0; line-height: 1.2;"><small>
         This figure summarizes the APPLE-Tree program, a behavioral change and lifestyle-based approach aiming to prevent dementia. 
     </small></p>
-    <Lazy>
-        <img alt="apple-tree description" src="appletree description.png"/>
-    </Lazy>
+    <img src="appletree description.png" alt="apple-tree description" loading="lazy" width="960" height="540" class="block mx-auto max-w-full h-auto" />
+
     <h4 style="text-align: center; margin-bottom: 5px;">Reference</h4>
     <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-black">Morse, R. M.</strong>, Lang, I., Rapaport, P., […] & Cooper, C. (2024) “How might secondary dementia prevention programs 
