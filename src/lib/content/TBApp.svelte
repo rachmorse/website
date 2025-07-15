@@ -29,5 +29,5 @@
     <p><strong class="dark:text-black">Morse, R. M.</strong>, Myburgh, H., Reubi, D., […] Hoddinott, G. (2020).
         “Opportunities for Mobile App–Based Adherence Support for Children with Tuberculosis in South Africa.” JMIR
         MHealth and UHealth. <a class="text-primary-500 dark:text-primary-200" href="https://doi.org/10.2196/19154" rel="noreferrer"
-                                target="_blank">https://doi.org/10.2196/19154</a></p>
+                                target="_blank">10.2196/19154</a></p>
 </div>

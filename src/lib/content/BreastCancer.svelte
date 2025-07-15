@@ -25,5 +25,5 @@
     <p>Fields, B. C., <strong class="dark:text-black">Morse, R. M.</strong>, Ortega, E., […] Paz-Soldan, V.A. (2023) “’I
         wanted information’: Navigating Breast Cancer and Its Treatment in Lima, Peru.” BMC Women’s Health. <a
                 class="text-primary-500 dark:text-primary-200" href="https://doi.org/10.1186/s12905-023-02321-3"
-                rel="noreferrer" target="_blank">https://doi.org/10.1186/s12905-023-02321-3</a></p>
+                rel="noreferrer" target="_blank">10.1186/s12905-023-02321-3</a></p>
 </div>

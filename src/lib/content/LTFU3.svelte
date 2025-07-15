@@ -30,6 +30,6 @@
         <strong class="dark:text-black">Morse, R. M.</strong>, […], Paz-Soldan, V. A. (2025) “‘The problem is not detection, 
         it is treatment’: exploring why women needing pre-cervical cancer care are lost to follow-up at the hospital 
         in Iquitos, Peru.” BMC Health Services Research. <a class="text-primary-500 dark:text-primary-200"
-                           href="https://doi.org/10.1186/s12913-025-12685-x" rel="noreferrer" target="_blank">https://doi.org/10.1186/s12913-025-12685-x</a>
+                           href="https://doi.org/10.1186/s12913-025-12685-x" rel="noreferrer" target="_blank">10.1186/s12913-025-12685-x</a>
     </p>
 </div>

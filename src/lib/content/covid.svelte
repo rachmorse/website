@@ -29,5 +29,5 @@
        Cooper, C. (2025). “Social, Digital and Community Capital Facilitated COVID-19 Pandemic Resilience
         in a Qualitative Survey of Older Adults With Mild Cognitive Concerns.” INQUIRY: The Journal of Health Care. <a
                 class="text-primary-500 dark:text-primary-200" href="https://doi.org/10.1177/00469580251332062" rel="noreferrer"
-                target="_blank">https://doi.org/10.1177/00469580251332062</a></p>
+                target="_blank">10.1177/00469580251332062</a></p>
 </div>

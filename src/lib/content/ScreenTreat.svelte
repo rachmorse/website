@@ -37,5 +37,5 @@
         Proyecto Precancer Study Group (2022). “Patient's perspectives on the acceptability and feasibility of an HPV
         screen-and-treat approach to cervical cancer prevention in Iquitos, Peru.” BMC Women’s Health. <a
                 class="text-primary-500 dark:text-primary-200" href="https://doi.org/10.1186/s12905-022-01943-3" rel="noreferrer"
-                target="_blank">https://doi.org/10.1186/s12905-022-01943-3</a></p>
+                target="_blank">10.1186/s12905-022-01943-3</a></p>
 </div>

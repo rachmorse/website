@@ -49,6 +49,6 @@
         Proyecto Precancer Study Group. (2023) “‘Easy women get it’: pre-existing stigma associated with HPV and cervical
         cancer in a low-resource setting prior to implementation of an HPV screen-and-treat program.” BMC Public Health.
         <a class="text-primary-500 dark:text-primary-200" href="http://doi.org/10.1186/s12889-023-17324-w"
-           rel="noreferrer" target="_blank">http://doi.org/10.1186/s12889-023-17324-w</a></p>
-    <p><small>† denotes coauthorship</small></p>
+           rel="noreferrer" target="_blank">10.1186/s12889-023-17324-w</a></p>
+    <p><small>† denotes equal contribution</small></p>
 </div>

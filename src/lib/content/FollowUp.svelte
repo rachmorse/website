@@ -36,6 +36,6 @@
         Proyecto Precancer Study Group. (2022) “‘Day or night, no matter what, I will go”: Women’s perspectives on challenges
         associated with receiving follow-up after abnormal cervical cancer screening results in Iquitos, Peru.” BMC
         Women’s Health. <a class="text-primary-500 dark:text-primary-200"
-                           href="http://doi.org/10.1186/s12905-023-02414-z" rel="noreferrer" target="_blank">http://doi.org/10.1186/s12905-023-02414-z</a>
+                           href="http://doi.org/10.1186/s12905-023-02414-z" rel="noreferrer" target="_blank">10.1186/s12905-023-02414-z</a>
     </p>
 </div>

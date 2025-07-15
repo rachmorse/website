@@ -27,6 +27,6 @@
     <hr style="width: 12%; height: 2px; margin: 5px auto 5px; background-color: lightgrey; border: none;">
     <p><strong class="dark:text-black">Morse, R. M.</strong>, Lang, I., Rapaport, P., […] & Cooper, C. (2024) “How might secondary dementia prevention programs 
         work in practice: a pre-implementation study of the APPLE-Tree program.” BMC Geriatrics.  <a class="text-primary-500 dark:text-primary-200"
-                           href="http://doi.org/10.1186/s12877-024-04762-3" rel="noreferrer" target="_blank">http://doi.org/10.1186/s12877-024-04762-3</a>
+                           href="http://doi.org/10.1186/s12877-024-04762-3" rel="noreferrer" target="_blank">10.1186/s12877-024-04762-3</a>
     </p>
 </div>

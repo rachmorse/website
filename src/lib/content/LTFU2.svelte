@@ -36,6 +36,6 @@
     <p><strong class="dark:text-black">Morse, R. M.</strong>, Brown, J., Ríos López, E. J., […], Paz-Soldan, V. A., & 
         the Proyecto Precancer Study Group. (2024) “Challenges associated with follow-up care after implementation of an HPV 
         screen-and-treat program with ablative therapy for cervical cancer prevention.” BMC Public Health.   <a class="text-primary-500 dark:text-primary-200"
-                           href="http://doi.org/10.1186/s12889-024-19436-3" rel="noreferrer" target="_blank">http://doi.org/10.1186/s12889-024-19436-3</a>
+                           href="http://doi.org/10.1186/s12889-024-19436-3" rel="noreferrer" target="_blank">10.1186/s12889-024-19436-3</a>
     </p>
 </div>
