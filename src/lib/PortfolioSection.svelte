@@ -44,7 +44,7 @@
 <div class="mb-5">
     <div class="grid gap-4 p-4 sm:grid-cols-2 items-stretch h-full" use:clickOutside>   
             {#each content as { title, desc, link, tags, long_desc }, index}
-            <div class="col-span-1 w-full h-full flex" data-tags={tags.join(' ')}>
+            <div class="col-span-1 w-full h-full flex flex-col sm:flex-row" data-tags={tags.join(' ')}>
                 <Project
                     link="{link}"
                     desc="{desc}"
