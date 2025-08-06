@@ -63,5 +63,6 @@
         pointer-events: none;
         cursor: default;
     }
+    [data-tags] { scroll-margin-top: 80px; }
 
 </style>

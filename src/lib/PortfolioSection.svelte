@@ -16,16 +16,18 @@
     // This function means that when someone clicks on a tag, it will scroll to the first project that has that tag.
     afterUpdate(async () => {
         if (!active_tag) return;
-        if (active_grid !== -1)                     // a card is still open
-            await new Promise(r => setTimeout(r, options.duration + 10));
+        await new Promise(r => setTimeout(r, options.duration + 10)); 
         await tick();                               // now the DOM is stable
 
+        const selector = `[data-tags~="${(window.CSS && CSS.escape) ? CSS.escape(active_tag) : active_tag}"]`;
+        const esc = (window.CSS && CSS.escape) ? CSS.escape(active_tag) : active_tag;
         document
-            .querySelector(`[data-tags*="${active_tag}"]`)   // whole-word match
+            .querySelector(`[data-tags*=",${esc},"]`)
             ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
     
     afterUpdate(async () => {
+        if (active_tag) return;              // don't compete with tag scrolling
         if (active_grid === -1) return;      // no card open
         await tick();                        // new markup is in the DOM
 
@@ -33,7 +35,7 @@
         setTimeout(() => {
             document.getElementById(`grid-${active_grid}`)
                 ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }, 160);  // 150 ms + tiny buffer
+        }, options.duration + 10);
     });
 
     // This function is used to close the an open project card when clicking outside of it.
@@ -57,7 +59,7 @@
 <div class="mb-5">
     <div class="grid gap-4 p-4 sm:grid-cols-2 items-stretch h-full justify-center" use:clickOutside>   
             {#each content as { title, desc, link, tags, long_desc }, index}
-            <div id={"grid-" + index} class="col-span-1 w-full h-full flex flex-col sm:flex-row" data-tags={tags.join(' ')}>
+            <div id={"grid-" + index} class="col-span-1 w-full h-full flex flex-col sm:flex-row" data-tags={',' + tags.join(',') + ','}>
                 <Project
                     link="{link}"
                     desc="{desc}"
