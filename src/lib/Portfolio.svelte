@@ -18,7 +18,7 @@
         {
             title: "COVID-19 and Dementia Risk",
             desc: "Although older adults tried to maintain activities that protect against dementia during the COVID-19 pandemic, we found that they experienced reduced in-person contact, mental health challenges, and limited physical activity.",
-            tags: ["cognitive health", "dementia", "prevention"],
+            tags: ["brain health", "dementia", "prevention"],
             long_desc: covid
         },
         {
@@ -36,13 +36,13 @@
         {
             title: "Mental Health & Physical and Cognitive Health",
             desc: "We found that older adults who frequently worry or ruminate report worse physical health and memory. Reducing their negative thinking may help improve overall wellbeing.",
-            tags: ["cognitive health", "psychology", "physical health"],
+            tags: ["brain health", "psychology"],
             long_desc: rnt
         },
         {
             title: "Lifestyle Approaches to Dementia Prevention",
             desc: "We found that healthcare professionals believe lifestyle changes can help prevent dementia, but they need guidance and more resources to successfully run these programs.",
-            tags: ["dementia", "implementation science", "cognitive health"],
+            tags: ["dementia", "implementation science", "brain health"],
             long_desc: appletree
         },
         {
@@ -71,13 +71,13 @@
         },
         {
             title: "Self-Reflection and Dementia Risk",
-            tags: ["neuroscience", "dementia", "cognitive health"],
+            tags: ["neuroscience", "dementia", "brain health"],
             desc: "Our study found that self-reflection may help older adults have better memory and brain health, potentially protecting them from dementia.",
             long_desc: SelfReflection
         },
         {
             title: "A Mobile App for Child Tuberculosis Treatment",
-            tags: ["global health", "tuberculosis", "mobile technology"],
+            tags: ["global health", "tuberculosis", "digital health"],
             desc: "Our research proposes using a mobile app to help children in South Africa complete their tuberculosis treatment and have a better experience with it.",
             long_desc: TBApp
         }
@@ -86,7 +86,20 @@
     let tags = [...projects]
         .map(x => x.tags)
         .flat();
-    let unique_tags = [...new Set(tags)];
+    // create a custom order for the tags
+    let unique_tags = [
+        "dementia",
+        "brain health",
+        "neuroscience",
+        "psychology",
+        "prevention",
+        "cervical cancer",
+        "breast cancer",
+        "tuberculosis",
+        "global health",
+        "implementation science",
+        "digital health",
+    ];
 
     let active_tag = "";
 
